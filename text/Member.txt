@@ -5,12 +5,12 @@ s1$;Apple Bot
 1$;Assistant__Wing
 1$;BMthewiz
 1$;Biobones
-1$;BunVibes
 1$;Chara Sato
 1$;CoffeeeVR
 1$;DataMcLP
 1$;Drexas
 1$;Drywall_Deluxe
+1$;EmeraldDoes
 1$;Fox_Crimson
 s3$;FrozenFireElias
 1$;Ginga Ryoshi
@@ -31,17 +31,16 @@ s2$;Sammy1010001
 1$;Scheintod
 1$;Shallie Blood
 2$;Shigemori
+1$;Sir Almonds
 1$;SirHellsing01
 1$;Sisia
-1$;Solarsshark
 1$;SoupEpicTrek
 1$;Suklo
-1$;The Black Swan
+s1$;ThePotatoKing23
 1$;ViperXZ
 1$;Wisersauce
 1$;WolfieK․
 1$;ZTwoTL
-1$;chauie
 1$;r0chs
 1$;sivus
 1$;soulbladerz
