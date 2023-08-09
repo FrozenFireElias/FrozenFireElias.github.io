@@ -8,6 +8,7 @@ s1$;Apple Bot
 1$;Chara Sato
 1$;CoffeeeVR
 1$;DataMcLP
+1$;DragoShuen
 1$;Drexas
 1$;Drywall_Deluxe
 1$;EmeraldDoes
@@ -20,12 +21,10 @@ s1$;Joerdiko
 1$;Klank1
 1$;KurookamiE
 s3$;MCItech
-1$;Megafight721
 s2$;Nep Nep Senpai
 2$;Oozeruk
 1$;ProjektR
 1$;Raine Desidia
-1$;Robw
 2$;Rommilia
 s2$;Sammy1010001
 1$;Scheintod
@@ -36,7 +35,7 @@ s2$;Sammy1010001
 1$;Sisia
 1$;SoupEpicTrek
 1$;Suklo
-s1$;ThePotatoKing23
+s2$;ThePotatoKing23
 1$;ViperXZ
 1$;Wisersauce
 1$;WolfieK․
