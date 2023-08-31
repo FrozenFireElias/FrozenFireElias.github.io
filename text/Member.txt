@@ -1,9 +1,10 @@
-s2$;AbyssalVIN
+2$;AbyssalVIN
 1$;Actually Stoked
 1$;Alicia Verdun
 s1$;Apple Bot
 1$;Assistant__Wing
 1$;BMthewiz
+1$;Bert_
 1$;Biobones
 1$;Chara Sato
 1$;CoffeeeVR
@@ -17,16 +18,15 @@ s3$;FrozenFireElias
 1$;Ginga Ryoshi
 s1$;Gwemlinǃ
 s1$;Joerdiko
-1$;JustBarry_
 1$;Klank1
 1$;KurookamiE
 s3$;MCItech
 s2$;Nep Nep Senpai
 2$;Oozeruk
 1$;ProjektR
-1$;Raine Desidia
+2$;Raine Desidia
 2$;Rommilia
-s2$;Sammy1010001
+s1$;Sammy1010001
 1$;Scheintod
 1$;Shallie Blood
 2$;Shigemori
@@ -35,7 +35,7 @@ s2$;Sammy1010001
 1$;Sisia
 1$;SoupEpicTrek
 1$;Suklo
-s2$;ThePotatoKing23
+2$;ThePotatoKing23
 1$;ViperXZ
 1$;Wisersauce
 1$;WolfieK․
