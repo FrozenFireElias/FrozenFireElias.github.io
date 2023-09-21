@@ -3,7 +3,6 @@
 1$;Alicia Verdun
 s1$;Apple Bot
 1$;Assistant__Wing
-1$;BMthewiz
 1$;Bert_
 1$;Biobones
 1$;Chara Sato
@@ -20,30 +19,31 @@ s1$;Gwemlinǃ
 s1$;Joerdiko
 1$;Klank1
 1$;KurookamiE
+1$;LittleJin
 s3$;MCItech
 s2$;Nep Nep Senpai
 2$;Oozeruk
 1$;ProjektR
 2$;Raine Desidia
 2$;Rommilia
-s1$;Sammy1010001
+1$;Sammy1010001
 1$;Scheintod
 1$;Shallie Blood
 2$;Shigemori
 1$;Sir Almonds
 1$;SirHellsing01
 1$;Sisia
-1$;SoupEpicTrek
+s1$;SoupEpicTrek
 1$;Suklo
 2$;ThePotatoKing23
 1$;ViperXZ
 1$;Wisersauce
 1$;WolfieK․
 1$;ZTwoTL
+1$;cifox20
 1$;r0chs
 1$;sivus
 1$;soulbladerz
 1$;ǃǃǃ Viper ǃǃǃ
-1$;「Soup」
 2$;カピバラ
 s3$;人魚MainériaBrot༉
