@@ -3,8 +3,8 @@
 1$;Alicia Verdun
 s1$;Apple Bot
 1$;Assistant__Wing
+1$;Bartender Mec
 1$;Bert_
-1$;Biobones
 1$;Chara Sato
 1$;CoffeeeVR
 1$;DataMcLP
@@ -17,29 +17,30 @@ s3$;FrozenFireElias
 1$;Ginga Ryoshi
 s1$;Gwemlinǃ
 s1$;Joerdiko
+1$;Kibbe
 1$;Klank1
 1$;KurookamiE
 1$;LittleJin
 s3$;MCItech
 s2$;Nep Nep Senpai
-2$;Oozeruk
+s3$;Oozeruk
 1$;ProjektR
 2$;Raine Desidia
 2$;Rommilia
 1$;Sammy1010001
 1$;Scheintod
 1$;Shallie Blood
-2$;Shigemori
+3$;Shigemori
 1$;Sir Almonds
 1$;SirHellsing01
 1$;Sisia
-s1$;SoupEpicTrek
 1$;Suklo
 2$;ThePotatoKing23
 1$;ViperXZ
 1$;Wisersauce
 1$;WolfieK․
 1$;ZTwoTL
+1$;_stry
 1$;cifox20
 1$;r0chs
 1$;sivus
