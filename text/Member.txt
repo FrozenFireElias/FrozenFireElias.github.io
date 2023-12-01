@@ -1,6 +1,6 @@
 2$;AbyssalVIN
 1$;Actually Stoked
-1$;Alicia Verdun
+2$;Alicia Verdun
 s1$;Apple Bot
 1$;Assistant__Wing
 1$;Bartender Mec
@@ -14,9 +14,10 @@ s1$;Apple Bot
 1$;EmeraldDoes
 1$;Fox_Crimson
 s3$;FrozenFireElias
+1$;Gazxangel
 1$;Ginga Ryoshi
 s1$;Gwemlinǃ
-s1$;Joerdiko
+1$;Joerdiko
 1$;Kibbe
 1$;Klank1
 1$;KurookamiE
@@ -24,6 +25,7 @@ s1$;Joerdiko
 s3$;MCItech
 s2$;Nep Nep Senpai
 s3$;Oozeruk
+1$;O̤t̤a̤k̤ṳ
 1$;ProjektR
 2$;Raine Desidia
 2$;Rommilia
