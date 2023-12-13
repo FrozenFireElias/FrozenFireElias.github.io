@@ -3,6 +3,7 @@
 2$;Alicia Verdun
 s1$;Apple Bot
 1$;Assistant__Wing
+1$;B L A C K C A T
 1$;Bartender Mec
 1$;Bert_
 1$;Chara Sato
@@ -24,11 +25,13 @@ s1$;Gwemlinǃ
 1$;LittleJin
 s3$;MCItech
 s2$;Nep Nep Senpai
+1$;Noble Sol
 s3$;Oozeruk
 1$;O̤t̤a̤k̤ṳ
 1$;ProjektR
 2$;Raine Desidia
 2$;Rommilia
+1$;Roomba115
 1$;Sammy1010001
 1$;Scheintod
 1$;Shallie Blood
@@ -45,7 +48,6 @@ s3$;Oozeruk
 1$;ZTwoTL
 1$;_stry
 1$;cifox20
-1$;r0chs
 1$;sivus
 1$;soulbladerz
 1$;ǃǃǃ Viper ǃǃǃ
