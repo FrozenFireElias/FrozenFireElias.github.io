@@ -2,14 +2,16 @@
 1$;Actually Stoked
 2$;Alicia Verdun
 s1$;Apple Bot
+1$;Ashely VRC
 1$;Assistant__Wing
 1$;B L A C K C A T
 1$;Bartender Mec
 1$;Bert_
 1$;Chara Sato
+1$;Chris2quick04
 1$;CoffeeeVR
 1$;DataMcLP
-1$;DragoShuen
+2$;DragoShuen
 1$;Drexas
 1$;Drywall_Deluxe
 1$;EmeraldDoes
@@ -27,14 +29,12 @@ s3$;MCItech
 s2$;Nep Nep Senpai
 1$;Noble Sol
 s3$;Oozeruk
-1$;O̤t̤a̤k̤ṳ
 1$;ProjektR
 2$;Raine Desidia
 2$;Rommilia
 1$;Roomba115
 1$;Sammy1010001
 1$;Scheintod
-1$;Shallie Blood
 3$;Shigemori
 1$;Sir Almonds
 1$;SirHellsing01
@@ -46,7 +46,7 @@ s3$;Oozeruk
 1$;Wisersauce
 1$;YuzuGyaru
 1$;ZTwoTL
-1$;_stry
+2$;_stry
 1$;cifox20
 1$;sivus
 1$;soulbladerz
