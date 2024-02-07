@@ -5,7 +5,6 @@ s1$;Apple Bot
 1$;Ashely VRC
 1$;Assistant__Wing
 1$;B L A C K C A T
-1$;Bartender Mec
 1$;Bert_
 1$;Chara Sato
 1$;Chris2quick04
@@ -20,7 +19,7 @@ s3$;FrozenFireElias
 1$;Gazxangel
 1$;Ginga Ryoshi
 s1$;Gwemlinǃ
-1$;Joerdiko
+s1$;Joerdiko
 1$;Kibbe
 1$;Klank1
 1$;KurookamiE
@@ -29,6 +28,7 @@ s3$;MCItech
 s2$;Nep Nep Senpai
 1$;Noble Sol
 s3$;Oozeruk
+1$;Paradises
 1$;ProjektR
 2$;Raine Desidia
 2$;Rommilia
@@ -36,9 +36,9 @@ s3$;Oozeruk
 1$;Sammy1010001
 1$;Scheintod
 3$;Shigemori
-1$;Sir Almonds
 1$;SirHellsing01
 1$;Sisia
+1$;SpaceCatAnri
 1$;Suklo
 2$;ThePotatoKing23
 1$;Tips
@@ -52,4 +52,4 @@ s3$;Oozeruk
 1$;soulbladerz
 1$;ǃǃǃ Viper ǃǃǃ
 2$;カピバラ
-s3$;人魚MainériaBrot༉
+2$;人魚MainériaBrot༉
