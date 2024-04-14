@@ -1,11 +1,10 @@
-1$;AbyssalVIN
+s1$;AbyssalVIN
 1$;Actually Stoked
 2$;Alicia Verdun
 s1$;Apple Bot
-1$;Ashely VRC
 1$;B L A C K C A T
 1$;Bert_
-1$;Chara Sato
+s1$;Chief
 1$;Chris2quick04
 1$;CoffeeeVR
 1$;DataMcLP
@@ -16,16 +15,15 @@ s1$;Apple Bot
 1$;Fox_Crimson
 s3$;FrozenFireElias
 1$;Gazxangel
-1$;Ginga Ryoshi
-s1$;Gwemlinǃ
-s1$;Joerdiko
+2$;Ginga Ryoshi
+1$;Gwemlinǃ
+1$;Joerdiko
 1$;Kibbe
 1$;Klank1
 1$;LittleJin
 s3$;MCItech
 1$;Monc42
-s2$;Nep Nep Senpai
-1$;Noble Sol
+s1$;Nep Nep Senpai
 3$;Oozeruk
 1$;Paradises
 1$;ProjektR
@@ -45,7 +43,8 @@ s2$;Nep Nep Senpai
 1$;ZTwoTL
 2$;_stry
 1$;cifox20
+1$;milkdotes4u
 1$;sivus
 1$;soulbladerz
 2$;カピバラ
-2$;人魚MainériaBrot༉
+1$;人魚MainériaBrot༉
