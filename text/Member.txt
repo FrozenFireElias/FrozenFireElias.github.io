@@ -16,7 +16,7 @@ s1$;Chief
 s3$;FrozenFireElias
 1$;Gazxangel
 2$;Ginga Ryoshi
-1$;Gwemlinǃ
+s1$;Gwemlinǃ
 1$;Joerdiko
 1$;Kibbe
 1$;Klank1
