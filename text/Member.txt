@@ -24,7 +24,7 @@ s1$;Gwemlinǃ
 s3$;MCItech
 1$;Monc42
 s1$;Nep Nep Senpai
-3$;Oozeruk
+s3$;Oozeruk
 1$;Paradises
 1$;ProjektR
 1$;Raine Desidia
@@ -44,6 +44,7 @@ s1$;Nep Nep Senpai
 2$;_stry
 1$;cifox20
 1$;milkdotes4u
+1$;ozan1
 1$;sivus
 1$;soulbladerz
 2$;カピバラ
