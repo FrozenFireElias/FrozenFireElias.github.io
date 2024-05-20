@@ -2,6 +2,7 @@ s1$;AbyssalVIN
 1$;Actually Stoked
 2$;Alicia Verdun
 s1$;Apple Bot
+1$;Araga_Kiwi
 1$;B L A C K C A T
 1$;Bert_
 s1$;Chief
@@ -17,14 +18,16 @@ s3$;FrozenFireElias
 1$;Gazxangel
 2$;Ginga Ryoshi
 s1$;Gwemlinǃ
-1$;Joerdiko
+s1$;Joerdiko
 1$;Kibbe
 1$;Klank1
+1$;LAZARUS e56b
 1$;LittleJin
 s3$;MCItech
 1$;Monc42
-s1$;Nep Nep Senpai
+s2$;Nep Nep Senpai
 s3$;Oozeruk
+1$;Orpḥ
 1$;Paradises
 1$;ProjektR
 1$;Raine Desidia
