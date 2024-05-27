@@ -9,6 +9,7 @@ s1$;Chief
 1$;Chris2quick04
 1$;CoffeeeVR
 1$;DataMcLP
+1$;DeSyMarZ6786
 2$;DragoShuen
 1$;Drexas
 1$;Drywall_Deluxe
@@ -26,10 +27,11 @@ s1$;Joerdiko
 s3$;MCItech
 1$;Monc42
 s2$;Nep Nep Senpai
-s3$;Oozeruk
+3$;Oozeruk
 1$;Orpḥ
 1$;Paradises
 1$;ProjektR
+1$;Pz․Grenadier 19
 1$;Raine Desidia
 2$;Rommilia
 1$;Roomba115
