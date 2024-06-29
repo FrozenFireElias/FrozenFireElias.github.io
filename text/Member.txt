@@ -16,12 +16,16 @@ s1$;Chief
 1$;EmeraldDoes
 1$;Fox_Crimson
 s3$;FrozenFireElias
-1$;Gazxangel
-2$;Ginga Ryoshi
+1$;GalloViking
+s1$;Gazxangel
+s2$;Ginga Ryoshi
 s1$;Gwemlinǃ
+1$;Honzin
 s1$;Joerdiko
+1$;JonyPhoney
 1$;Kibbe
 1$;Klank1
+1$;KubzCzech
 1$;LAZARUS e56b
 1$;LittleJin
 s3$;MCItech
@@ -29,20 +33,23 @@ s3$;MCItech
 s2$;Nep Nep Senpai
 3$;Oozeruk
 1$;Orpḥ
-1$;Paradises
+1$;PandaWove
 1$;ProjektR
 1$;Pz․Grenadier 19
 1$;Raine Desidia
+1$;Rolltide813
 2$;Rommilia
 1$;Roomba115
 1$;Scheintod
 3$;Shigemori
 1$;SirHellsing01
 1$;Sisia
+1$;Sonakoii
 1$;SpaceCatAnri
 1$;Suklo
 2$;ThePotatoKing23
 2$;Tips
+1$;Unknown Neko
 1$;ViperXZ
 1$;Wisersauce
 1$;ZTwoTL
