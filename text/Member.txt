@@ -1,3 +1,4 @@
+1$;-Ghoulish-
 s1$;AbyssalVIN
 1$;Actually Stoked
 2$;Alicia Verdun
@@ -18,6 +19,7 @@ s1$;Chief
 s3$;FrozenFireElias
 1$;GalloViking
 s1$;Gazxangel
+1$;GhostlyWolf208
 s2$;Ginga Ryoshi
 s1$;Gwemlinǃ
 1$;Honzin
@@ -37,7 +39,7 @@ s2$;Nep Nep Senpai
 1$;ProjektR
 1$;Pz․Grenadier 19
 1$;Raine Desidia
-1$;Rolltide813
+s1$;Rolltide813
 2$;Rommilia
 1$;Roomba115
 1$;Scheintod
@@ -59,5 +61,6 @@ s2$;Nep Nep Senpai
 1$;ozan1
 1$;sivus
 1$;soulbladerz
+1$;~Alinda~
 2$;カピバラ
 1$;人魚MainériaBrot༉
