@@ -2,9 +2,19 @@ FrozenFireElias
 Nep Nep Senpai
 skip
 skip
+
+skip
+skip
+skip
+skip
+
+skip
+skip
 BlueStar is at PJKT!
 null
+
 -end
+
 -Ghoulish-,Cadet,0,0,false,true
 AbyssalVIN,Agent,1,0,false,true
 Actually Stoked,Officer,0,0,false,true
