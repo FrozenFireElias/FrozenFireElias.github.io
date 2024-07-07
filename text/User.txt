@@ -21,6 +21,7 @@ Actually Stoked,Officer,0,0,false,true
 Alicia Verdun,Agent,0,0,true,true
 Apple Bot,Special Agent,1,0,false,true
 Araga_Kiwi,Cadet,0,0,false,true
+Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Agent,0,0,false,true
 Bert_,Officer,0,0,false,true
 Chief,Agent,1,0,false,true
@@ -38,21 +39,26 @@ GalloViking,Cadet,0,0,false,true
 Gazxangel,Officer,1,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
 Ginga Ryoshi,Inspector,1,1,true,true
+GingerHitmanST,Cadet,0,0,false,true
 Gwemlinǃ,Special Agent,1,0,false,true
 HeyItsPure,Cadet,0,0,false,true
 Honzin,Cadet,0,0,false,true
+Hypernep,Cadet,0,0,false,true
 Iron≺3,Cadet,0,0,false,true
 Jaskajopuli,Cadet,0,0,false,true
 Joerdiko,Officer,1,0,false,true
 JonyPhoney,Officer,0,0,false,true
 Kibbe,Cadet,0,0,false,true
 Klank1,Officer,0,0,false,true
+KoruAki,Cadet,0,0,false,true
 KubzCzech,Cadet,0,0,false,true
+KuqiKitty,Cadet,0,0,false,true
 LAZARUS e56b,Cadet,0,0,false,true
 LittleJin,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
 Monc42,Cadet,0,0,false,true
 Nep Nep Senpai,Inspector,2,1,true,true
+Nyanka,Cadet,0,0,false,true
 Oozeruk,Chief Operator,0,3,true,true
 Orpḥ,Cadet,0,0,false,true
 PandaWove,Cadet,0,0,false,true
@@ -63,6 +69,7 @@ Rolltide813,Cadet,2,0,false,true
 Rommilia,Inspector,0,1,true,true
 Roomba115,Agent,0,0,false,true
 Scheintod,Officer,0,0,false,true
+Semper-S3XY,Cadet,0,0,false,true
 Shigemori,Manager,0,2,true,true
 SirHellsing01,Officer,0,0,false,true
 Sisia,Cadet,0,0,false,true
@@ -77,13 +84,16 @@ Wisersauce,Officer,0,0,false,true
 ZTwoTL,Cadet,0,0,false,true
 _stry,Inspector,0,1,true,true
 cifox20,Agent,0,0,false,true
+eeveil,Cadet,0,0,false,true
 milkdotes4u,Cadet,0,0,false,true
+nokita,Cadet,0,0,false,true
 ozan1,Cadet,0,0,false,true
 quilu,Cadet,0,0,false,true
 risge3000,Cadet,0,0,false,true
 sivus,Officer,0,0,false,true
 soulbladerz,Officer,0,0,false,true
 ~Alinda~,Cadet,0,0,false,true
+Ƙally,Cadet,0,0,false,true
 ᅳ,Cadet,0,0,false,true
 カピバラ,Special Agent,0,0,true,true
 人魚MainériaBrot༉,Special Agent,0,0,false,true
