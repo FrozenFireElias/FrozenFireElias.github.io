@@ -10,7 +10,7 @@ skip
 
 skip
 skip
-BlueStar is at PJKT!
+skip
 null
 
 -end
@@ -79,6 +79,7 @@ Suklo,Agent,0,0,false,true
 ThePotatoKing23,Agent,0,0,true,true
 Tips,Agent,0,0,true,true
 Unknown Neko,Cadet,0,0,false,true
+Venom457,Cadet,0,0,false,true
 ViperXZ,Special Agent,0,0,false,true
 Wisersauce,Officer,0,0,false,true
 ZTwoTL,Cadet,0,0,false,true
