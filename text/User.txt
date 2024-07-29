@@ -38,8 +38,6 @@ FrozenFireElias,Chief Executive,2,3,true,true
 GalloViking,Cadet,0,0,false,true
 Gazxangel,Officer,1,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
-Ginga Ryoshi,Inspector,1,1,true,true
-GingerHitmanST,Cadet,0,0,false,true
 Gwemlinǃ,Special Agent,1,0,false,true
 HeyItsPure,Cadet,0,0,false,true
 Honzin,Cadet,0,0,false,true
@@ -56,11 +54,10 @@ KuqiKitty,Cadet,0,0,false,true
 LAZARUS e56b,Cadet,0,0,false,true
 LittleJin,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
+Modnar Dhorn,Cadet,0,0,false,true
 Monc42,Cadet,0,0,false,true
 Nep Nep Senpai,Inspector,2,1,true,true
-Nyanka,Cadet,0,0,false,true
 Oozeruk,Chief Operator,0,3,true,true
-Orpḥ,Cadet,0,0,false,true
 PandaWove,Cadet,0,0,false,true
 ProjektR,Officer,0,0,false,true
 Pz․Grenadier 19,Cadet,0,0,false,true
@@ -74,7 +71,6 @@ Shigemori,Manager,0,2,true,true
 SirHellsing01,Officer,0,0,false,true
 Sisia,Cadet,0,0,false,true
 Sonakoii,Cadet,0,0,false,true
-SpaceCatAnri,Cadet,0,0,false,true
 Suklo,Agent,0,0,false,true
 ThePotatoKing23,Agent,0,0,true,true
 Tips,Agent,0,0,true,true
@@ -93,7 +89,6 @@ quilu,Cadet,0,0,false,true
 risge3000,Cadet,0,0,false,true
 sivus,Officer,0,0,false,true
 soulbladerz,Officer,0,0,false,true
-~Alinda~,Cadet,0,0,false,true
 Ƙally,Cadet,0,0,false,true
 ᅳ,Cadet,0,0,false,true
 カピバラ,Special Agent,0,0,true,true
