@@ -29,6 +29,7 @@ Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
 DataMcLP,Officer,0,0,false,true
 DeSyMarZ6786,Cadet,0,0,false,true
+Deer_Butt,Cadet,0,0,false,true
 DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
@@ -38,6 +39,7 @@ FrozenFireElias,Chief Executive,2,3,true,true
 GalloViking,Cadet,0,0,false,true
 Gazxangel,Officer,1,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
+Ginga Ryoshi,Inspector,0,1,true,true
 Gwemlinǃ,Special Agent,1,0,false,true
 HeyItsPure,Cadet,0,0,false,true
 Honzin,Cadet,0,0,false,true
@@ -92,4 +94,4 @@ soulbladerz,Officer,0,0,false,true
 Ƙally,Cadet,0,0,false,true
 ᅳ,Cadet,0,0,false,true
 カピバラ,Special Agent,0,0,true,true
-人魚MainériaBrot༉,Special Agent,0,0,false,true
+人魚MainériaBrot༉,Special Agent,0,0,true,true
