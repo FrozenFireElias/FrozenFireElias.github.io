@@ -29,7 +29,7 @@ Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
 DataMcLP,Officer,0,0,false,true
 DeSyMarZ6786,Cadet,0,0,false,true
-Deer_Butt,Cadet,0,0,false,true
+Deer_Butt,Cadet,1,0,false,true
 DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
@@ -55,9 +55,11 @@ KubzCzech,Cadet,0,0,false,true
 KuqiKitty,Cadet,0,0,false,true
 LAZARUS e56b,Cadet,0,0,false,true
 LittleJin,Cadet,0,0,false,true
+Lvstfvl,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
 Modnar Dhorn,Cadet,0,0,false,true
 Monc42,Cadet,0,0,false,true
+Narumiie,Cadet,0,0,false,true
 Nep Nep Senpai,Inspector,2,1,true,true
 Oozeruk,Chief Operator,0,3,true,true
 PandaWove,Cadet,0,0,false,true
@@ -78,7 +80,7 @@ Sonakoii,Officer,0,0,false,true
 Suklo,Agent,0,0,false,true
 ThePotatoKing23,Agent,0,0,true,true
 Tips,Agent,0,0,true,true
-Unknown Neko,Officer,0,0,false,true
+Unknown Neko,Officer,2,0,false,true
 Venom457,Cadet,0,0,false,true
 ViperXZ,Special Agent,0,0,false,true
 Wisersauce,Officer,0,0,false,true
@@ -88,7 +90,6 @@ _stry,Inspector,0,1,true,true
 cifox20,Agent,0,0,false,true
 eeveil,Cadet,0,0,false,true
 milkdotes4u,Cadet,0,0,false,true
-nokita,Cadet,0,0,false,true
 ozan1,Cadet,0,0,false,true
 quilu,Cadet,0,0,false,true
 risge3000,Cadet,0,0,false,true
