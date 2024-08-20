@@ -29,7 +29,7 @@ Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
 DataMcLP,Officer,0,0,false,true
 DeSyMarZ6786,Cadet,0,0,false,true
-Deer_Butt,Cadet,1,0,false,true
+Deer_Butt,Cadet,2,0,false,true
 DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
