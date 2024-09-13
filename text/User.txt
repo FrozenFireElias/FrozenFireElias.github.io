@@ -27,7 +27,6 @@ Bert_,Officer,0,0,false,true
 Chief,Agent,1,0,false,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
-DataMcLP,Officer,0,0,false,true
 DeSyMarZ6786,Cadet,0,0,false,true
 Deer_Butt,Officer,2,0,false,true
 DragoShuen,Agent,0,0,true,true
@@ -60,6 +59,7 @@ MCItech,Director,2,2,true,true
 Modnar Dhorn,Cadet,0,0,false,true
 Monc42,Cadet,0,0,false,true
 Narumiie,Officer,0,0,false,true
+Neon_Fennix,Cadet,0,0,false,true
 Nep Nep Senpai,Inspector,2,1,true,true
 NeptuneNep,Cadet,0,0,false,true
 Oozeruk,Chief Operator,0,3,true,true
@@ -94,9 +94,7 @@ milkdotes4u,Cadet,0,0,false,true
 ozan1,Cadet,0,0,false,true
 quilu,Cadet,0,0,false,true
 risge3000,Cadet,0,0,false,true
-sivus,Officer,0,0,false,true
 soulbladerz,Officer,0,0,false,true
-sparked0153,Cadet,0,0,false,true
 Ƙally,Officer,0,0,false,true
 ᅳ,Cadet,0,0,false,true
 カピバラ,Special Agent,0,0,true,true
