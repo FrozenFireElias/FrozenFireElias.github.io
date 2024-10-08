@@ -28,10 +28,11 @@ Chief,Agent,1,0,false,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
 DeSyMarZ6786,Cadet,0,0,false,true
-Deer_Butt,Officer,2,0,false,true
+Deer_Butt,Agent,2,0,false,true
 DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
+Elusif,Cadet,0,0,false,true
 EmeraldDoes,Agent,0,0,false,true
 Fox_Crimson,Officer,0,0,false,true
 FrozenFireElias,Chief Executive,2,3,true,true
@@ -81,7 +82,7 @@ Sonakoii,Officer,0,0,false,true
 Suklo,Agent,0,0,false,true
 ThePotatoKing23,Agent,0,0,true,true
 Tips,Special Agent,0,0,true,true
-Unknown Neko,Officer,2,0,false,true
+Unknown Neko,Inspector,0,1,true,true
 Venom457,Cadet,0,0,false,true
 ViperXZ,Special Agent,0,0,false,true
 Wisersauce,Officer,0,0,false,true
@@ -95,7 +96,7 @@ ozan1,Cadet,0,0,false,true
 quilu,Cadet,0,0,false,true
 risge3000,Cadet,0,0,false,true
 soulbladerz,Officer,0,0,false,true
-Ƙally,Officer,0,0,false,true
+Ƙally,Agent,0,0,false,true
 ᅳ,Cadet,0,0,false,true
 カピバラ,Special Agent,0,0,true,true
 人魚MainériaBrot༉,Special Agent,0,0,true,true
