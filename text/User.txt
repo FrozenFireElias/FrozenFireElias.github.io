@@ -1,5 +1,5 @@
 FrozenFireElias
-skip
+Nep Nep Senpai
 skip
 skip
 
@@ -38,17 +38,19 @@ Fox_Crimson,Officer,0,0,false,true
 FrozenFireElias,Chief Executive,2,3,true,true
 Gazxangel,Officer,1,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
-Ginga Ryoshi,Inspector,0,1,true,true
+Ginga Ryoshi,Inspector,1,1,true,true
 Gwemlinǃ,Special Agent,0,0,false,true
 HeyItsPure,Cadet,0,0,false,true
 Honzin,Officer,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
+IBETA7,Cadet,0,0,false,true
 Iron≺3,Cadet,0,0,false,true
 Jaskajopuli,Cadet,0,0,false,true
 Joerdiko,Agent,1,0,false,true
 JonyPhoney,Officer,0,0,false,true
 Kibbe,Cadet,0,0,false,true
+Kindred Melody,Cadet,0,0,false,true
 Klank1,Officer,0,0,false,true
 KoruAki,Cadet,0,0,false,true
 KubzCzech,Cadet,0,0,false,true
@@ -61,7 +63,7 @@ Modnar Dhorn,Cadet,0,0,false,true
 Monc42,Cadet,0,0,false,true
 Narumiie,Officer,0,0,false,true
 Neon_Fennix,Cadet,0,0,false,true
-Nep Nep Senpai,Inspector,1,1,true,true
+Nep Nep Senpai,Inspector,2,1,true,true
 NeptuneNep,Cadet,0,0,false,true
 Oozeruk,Chief Operator,1,3,true,true
 ProjektR,Officer,0,0,false,true
@@ -74,7 +76,6 @@ Scheintod,Officer,0,0,false,true
 Semper-S3XY,Cadet,0,0,false,true
 Shigemori,Advisor,0,2,true,true
 ShyFury,Cadet,0,0,false,true
-SirHellsing01,Officer,0,0,false,true
 Sisia,Cadet,0,0,false,true
 Sonakoii,Officer,1,0,false,true
 Suklo,Agent,0,0,false,true
