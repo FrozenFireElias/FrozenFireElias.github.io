@@ -44,7 +44,7 @@ HeyItsPure,Cadet,0,0,false,true
 Honzin,Officer,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
-IBETA7,Cadet,0,0,false,true
+IBETA7,Cadet,2,0,false,true
 Iron≺3,Cadet,0,0,false,true
 Jaskajopuli,Cadet,0,0,false,true
 Joerdiko,Agent,1,0,false,true
