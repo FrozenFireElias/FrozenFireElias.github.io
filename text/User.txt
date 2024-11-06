@@ -18,6 +18,7 @@ null
 -Ghoulish-,Cadet,0,0,false,true
 AbyssalVIN,Inspector,1,1,true,true
 Actually Stoked,Officer,0,0,false,true
+Advanced Derp,Cadet,0,0,false,true
 Alicia Verdun,Agent,0,0,true,true
 Apple Bot,Special Agent,1,0,false,true
 Araga_Kiwi,Cadet,0,0,false,true
@@ -47,12 +48,12 @@ Hypernep,Cadet,0,0,false,true
 IBETA7,Cadet,2,0,false,true
 Iron≺3,Cadet,0,0,false,true
 Jaskajopuli,Cadet,0,0,false,true
-Joerdiko,Agent,1,0,false,true
 JonyPhoney,Officer,0,0,false,true
 Kibbe,Cadet,0,0,false,true
 Kindred Melody,Cadet,0,0,false,true
 Klank1,Officer,0,0,false,true
 KoruAki,Cadet,0,0,false,true
+Kryształ クリスタル,Cadet,0,0,false,true
 KubzCzech,Cadet,0,0,false,true
 KuqiKitty,Cadet,0,0,false,true
 LAZARUS e56b,Cadet,0,0,false,true
