@@ -66,7 +66,8 @@ Narumiie,Officer,0,0,false,true
 Neon_Fennix,Cadet,0,0,false,true
 Nep Nep Senpai,Inspector,2,1,true,true
 NeptuneNep,Cadet,0,0,false,true
-Oozeruk,Chief Operator,1,3,true,true
+Norelock,Cadet,0,0,false,true
+Oozeruk,Chief Operator,0,3,true,true
 ProjektR,Officer,0,0,false,true
 Pz․Grenadier 19,Cadet,0,0,false,true
 Raine Desidia,Officer,0,0,false,true
@@ -78,7 +79,7 @@ Semper-S3XY,Cadet,0,0,false,true
 Shigemori,Advisor,0,2,true,true
 ShyFury,Cadet,0,0,false,true
 Sisia,Cadet,0,0,false,true
-Sonakoii,Officer,1,0,false,true
+Sonakoii,Officer,0,0,false,true
 Suklo,Agent,0,0,false,true
 ThePotatoKing23,Agent,0,0,true,true
 Tips,Special Agent,0,0,true,true
