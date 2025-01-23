@@ -28,6 +28,8 @@ Bert_,Officer,0,0,false,true
 Chief,Special Agent,1,0,false,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
+CorporatedSync,Cadet,0,0,false,true
+Crowflake,Cadet,0,0,false,true
 DeSyMarZ6786,Cadet,0,0,false,true
 Deer_Butt,Supervisor,2,1,true,true
 DragoShuen,Agent,0,0,true,true
@@ -48,12 +50,14 @@ Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
 IBETA7,Cadet,2,0,false,true
 Iron≺3,Cadet,0,0,false,true
+ItsMeFuyu,Cadet,0,0,false,true
 Jaskajopuli,Cadet,0,0,false,true
 JonyPhoney,Agent,0,0,false,true
+KawaiiApple,Cadet,0,0,false,true
 Kibbe,Cadet,0,0,false,true
 Kindred Melody,Cadet,0,0,false,true
 Klank1,Officer,0,0,false,true
-KoruAki,Cadet,0,0,false,true
+KoruAki,Cadet,1,0,false,true
 Kryształ クリスタル,Cadet,0,0,false,true
 KubzCzech,Cadet,0,0,false,true
 KuqiKitty,Cadet,0,0,false,true
