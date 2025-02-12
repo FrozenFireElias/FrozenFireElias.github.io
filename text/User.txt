@@ -16,28 +16,30 @@ null
 -end
 
 -Ghoulish-,Cadet,0,0,false,true
+1800HOTBEEF,Cadet,0,0,false,true
 AbyssalVIN,Supervisor,1,1,true,true
 Actually Stoked,Officer,0,0,false,true
-Advanced Derp,Cadet,0,0,false,true
+Advanced Derp,Officer,0,0,false,true
 Alicia Verdun,Agent,0,0,true,true
 Apple Bot,Special Agent,1,0,false,true
 Araga_Kiwi,Cadet,0,0,false,true
 Avigyl,Cadet,0,0,false,true
-B L A C K C A T,Agent,0,0,false,true
+B L A C K C A T,Field Agent,0,0,false,true
 Bert_,Officer,0,0,false,true
 Chief,Special Agent,1,0,false,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
-CorporatedSync,Cadet,0,0,false,true
+CorporatedSync,Officer,0,0,false,true
 Crowflake,Cadet,0,0,false,true
 DeSyMarZ6786,Cadet,0,0,false,true
 Deer_Butt,Supervisor,2,1,true,true
 DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
+EXParadise,Cadet,0,0,false,true
 Elusif,Cadet,0,0,false,true
 EmeraldDoes,Agent,0,0,false,true
-Foran,Cadet,0,0,false,true
+Foran,Officer,0,0,false,true
 Fox_Crimson,Officer,0,0,false,true
 FrozenFireElias,Chief Executive,2,3,true,true
 Gazxangel,Officer,1,0,false,true
@@ -52,12 +54,12 @@ IBETA7,Cadet,2,0,false,true
 Iron≺3,Cadet,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
 Jaskajopuli,Cadet,0,0,false,true
-JonyPhoney,Agent,0,0,false,true
+JonyPhoney,Field Agent,0,0,false,true
 KawaiiApple,Cadet,0,0,false,true
 Kibbe,Cadet,0,0,false,true
 Kindred Melody,Cadet,0,0,false,true
 Klank1,Officer,0,0,false,true
-KoruAki,Cadet,1,0,false,true
+KoruAki,Officer,1,0,false,true
 Kryształ クリスタル,Cadet,0,0,false,true
 KubzCzech,Cadet,0,0,false,true
 KuqiKitty,Cadet,0,0,false,true
@@ -68,12 +70,13 @@ Lvstfvl,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
 Modnar Dhorn,Cadet,0,0,false,true
 Monc42,Cadet,0,0,false,true
-Narumiie,Officer,0,0,false,true
+Narumiie,Jr Agent,1,0,false,true
 Neon_Fennix,Cadet,0,0,false,true
 Nep Nep Senpai,Supervisor,2,1,true,true
 NeptuneNep,Cadet,0,0,false,true
 Norelock,Cadet,0,0,false,true
 Oozeruk,Chief Operator,0,3,true,true
+Pixelmon,Cadet,0,0,false,true
 ProjektR,Officer,0,0,false,true
 Pz․Grenadier 19,Cadet,0,0,false,true
 Raine Desidia,Officer,0,0,false,true
@@ -85,8 +88,9 @@ Semper-S3XY,Cadet,0,0,false,true
 Shigemori,Advisor,0,2,true,true
 ShyFury,Cadet,0,0,false,true
 Sisia,Cadet,0,0,false,true
-Sonakoii,Officer,0,0,false,true
+Sonakoii,Jr Agent,0,0,false,true
 Suklo,Agent,0,0,false,true
+T0MBST0N3,Cadet,0,0,false,true
 ThePotatoKing23,Agent,0,0,true,true
 Tips,Special Agent,0,0,true,true
 Unknown Neko,Supervisor,0,1,true,true
@@ -95,7 +99,7 @@ ViperXZ,Special Agent,0,0,false,true
 Wisersauce,Officer,0,0,false,true
 ZTwoTL,Cadet,0,0,false,true
 _Yamato_,Cadet,0,0,false,true
-_stry,Manager,0,2,true,true
+_stry,Director,0,2,true,true
 cifox20,Agent,0,0,false,true
 eeveil,Cadet,0,0,false,true
 milkdotes4u,Cadet,0,0,false,true
@@ -103,7 +107,7 @@ ozan1,Cadet,0,0,false,true
 quilu,Cadet,0,0,false,true
 risge3000,Cadet,0,0,false,true
 soulbladerz,Officer,0,0,false,true
-Ƙally,Agent,0,0,false,true
+Ƙally,Field Agent,0,0,false,true
 ᅳ,Cadet,0,0,false,true
 カピバラ,Special Agent,0,0,true,true
 人魚MainériaBrot༉,Special Agent,0,0,true,true
