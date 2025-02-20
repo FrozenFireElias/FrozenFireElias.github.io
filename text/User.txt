@@ -17,7 +17,7 @@ null
 
 -Ghoulish-,Cadet,0,0,false,true
 1800HOTBEEF,Cadet,0,0,false,true
-AbyssalVIN,Supervisor,1,1,true,true
+AbyssalVIN,Special Agent,1,0,true,true
 Actually Stoked,Officer,0,0,false,true
 Advanced Derp,Officer,0,0,false,true
 Alicia Verdun,Agent,0,0,true,true
@@ -66,6 +66,7 @@ KuqiKitty,Cadet,0,0,false,true
 LAZARUS e56b,Cadet,0,0,false,true
 Lady Blem,Cadet,0,0,false,true
 LittleJin,Cadet,0,0,false,true
+LuckyCharms0a42,Cadet,0,0,false,true
 Lvstfvl,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
 Modnar Dhorn,Cadet,0,0,false,true
