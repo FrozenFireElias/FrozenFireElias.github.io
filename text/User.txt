@@ -17,7 +17,7 @@ null
 
 -Ghoulish-,Cadet,0,0,false,true
 1800HOTBEEF,Cadet,0,0,false,true
-AbyssalVIN,Special Agent,1,0,true,true
+AbyssalVIN,Special Agent,1,0,false,true
 Actually Stoked,Officer,0,0,false,true
 Advanced Derp,Officer,0,0,false,true
 Alicia Verdun,Agent,0,0,true,true
@@ -59,7 +59,7 @@ KawaiiApple,Cadet,0,0,false,true
 Kibbe,Cadet,0,0,false,true
 Kindred Melody,Cadet,0,0,false,true
 Klank1,Officer,0,0,false,true
-KoruAki,Officer,1,0,false,true
+KoruAki,Jr Agent,1,0,false,true
 Kryształ クリスタル,Cadet,0,0,false,true
 KubzCzech,Cadet,0,0,false,true
 KuqiKitty,Cadet,0,0,false,true
@@ -93,7 +93,7 @@ Sonakoii,Jr Agent,0,0,false,true
 Suklo,Agent,0,0,false,true
 T0MBST0N3,Cadet,0,0,false,true
 ThePotatoKing23,Agent,0,0,true,true
-Tips,Special Agent,0,0,true,true
+Tips,Special Agent,0,0,false,true
 Unknown Neko,Supervisor,0,1,true,true
 Venom457,Cadet,0,0,false,true
 ViperXZ,Special Agent,0,0,false,true
@@ -101,7 +101,7 @@ Wisersauce,Officer,0,0,false,true
 ZTwoTL,Cadet,0,0,false,true
 _Yamato_,Cadet,0,0,false,true
 _stry,Director,0,2,true,true
-cifox20,Agent,0,0,false,true
+cifox20,Field Agent,0,0,false,true
 eeveil,Cadet,0,0,false,true
 milkdotes4u,Cadet,0,0,false,true
 ozan1,Cadet,0,0,false,true
