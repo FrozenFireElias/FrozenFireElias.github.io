@@ -30,7 +30,6 @@ Chief,Special Agent,1,0,false,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
 CorporatedSync,Officer,0,0,false,true
-Crowflake,Cadet,0,0,false,true
 DeSyMarZ6786,Cadet,0,0,false,true
 Deer_Butt,Supervisor,2,1,true,true
 DragoShuen,Agent,0,0,true,true
@@ -59,18 +58,17 @@ KawaiiApple,Cadet,0,0,false,true
 Kibbe,Cadet,0,0,false,true
 Kindred Melody,Cadet,0,0,false,true
 Klank1,Officer,0,0,false,true
-KoruAki,Jr Agent,1,0,false,true
+KoruAki,Jr Agent,0,0,false,true
 Kryształ クリスタル,Cadet,0,0,false,true
 KubzCzech,Cadet,0,0,false,true
 KuqiKitty,Cadet,0,0,false,true
 LAZARUS e56b,Cadet,0,0,false,true
-Lady Blem,Cadet,0,0,false,true
 LittleJin,Cadet,0,0,false,true
 LuckyCharms0a42,Cadet,0,0,false,true
 Lvstfvl,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
+Mettro,Cadet,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
-Monc42,Cadet,0,0,false,true
 Narumiie,Jr Agent,1,0,false,true
 Neon_Fennix,Cadet,0,0,false,true
 Nep Nep Senpai,Supervisor,2,1,true,true
