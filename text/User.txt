@@ -58,7 +58,7 @@ KawaiiApple,Cadet,0,0,false,true
 Kibbe,Cadet,0,0,false,true
 Kindred Melody,Cadet,0,0,false,true
 Klank1,Officer,0,0,false,true
-KoruAki,Jr Agent,0,0,false,true
+KoruAki,Jr Agent,1,0,false,true
 Kryształ クリスタル,Cadet,0,0,false,true
 KubzCzech,Cadet,0,0,false,true
 KuqiKitty,Cadet,0,0,false,true
