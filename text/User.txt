@@ -17,7 +17,6 @@ null
 
 -Ghoulish-,Cadet,0,0,false,true
 1800HOTBEEF,Cadet,0,0,false,true
-AbyssalVIN,Special Agent,1,0,false,true
 Actually Stoked,Officer,0,0,false,true
 Advanced Derp,Officer,0,0,false,true
 Alicia Verdun,Agent,0,0,true,true
@@ -26,7 +25,6 @@ Araga_Kiwi,Cadet,0,0,false,true
 Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Field Agent,0,0,false,true
 Bert_,Officer,0,0,false,true
-Chief,Special Agent,1,0,false,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
 CorporatedSync,Officer,0,0,false,true
@@ -53,7 +51,7 @@ IBETA7,Cadet,2,0,false,true
 Iron≺3,Cadet,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
 Jaskajopuli,Cadet,0,0,false,true
-JonyPhoney,Field Agent,0,0,false,true
+JonyPhoney,Field Agent,1,0,false,true
 KawaiiApple,Cadet,0,0,false,true
 Kibbe,Cadet,0,0,false,true
 Kindred Melody,Cadet,0,0,false,true
