@@ -25,6 +25,7 @@ Araga_Kiwi,Cadet,0,0,false,true
 Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Field Agent,0,0,false,true
 Bert_,Officer,0,0,false,true
+Chief,Special Agent,0,0,true,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
 CorporatedSync,Officer,0,0,false,true
@@ -100,6 +101,7 @@ _stry,Director,0,2,true,true
 cifox20,Field Agent,0,0,false,true
 eeveil,Cadet,0,0,false,true
 milkdotes4u,Cadet,0,0,false,true
+oldfoxy33,Cadet,0,0,false,true
 ozan1,Cadet,0,0,false,true
 quilu,Cadet,0,0,false,true
 risge3000,Cadet,0,0,false,true
