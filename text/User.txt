@@ -1,6 +1,6 @@
 FrozenFireElias
 Nep Nep Senpai
-skip
+EXParadise
 skip
 
 skip
@@ -16,7 +16,6 @@ null
 -end
 
 -Ghoulish-,Cadet,0,0,false,true
-1800HOTBEEF,Cadet,0,0,false,true
 Actually Stoked,Officer,0,0,false,true
 Advanced Derp,Jr Agent,0,0,false,true
 Alicia Verdun,Agent,0,0,true,true
@@ -34,7 +33,7 @@ Deer_Butt,Manager,2,2,true,true
 DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
-EXParadise,Officer,0,0,false,true
+EXParadise,Officer,2,0,false,true
 Elusif,Cadet,0,0,false,true
 EmeraldDoes,Agent,0,0,false,true
 Foran,Jr Agent,0,0,true,true
