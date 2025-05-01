@@ -24,6 +24,7 @@ Araga_Kiwi,Cadet,0,0,false,true
 Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Field Agent,0,0,false,true
 Bert_,Officer,0,0,false,true
+ChampionAchievr,Cadet,0,0,false,true
 Chief,Special Agent,0,0,true,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
@@ -52,7 +53,7 @@ Iron≺3,Cadet,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
 Jaskajopuli,Cadet,0,0,false,true
 JinxLv,Cadet,0,0,false,true
-JonyPhoney,Special Agent,2,0,false,true
+JonyPhoney,Special Agent,2,0,true,true
 Kibbe,Cadet,0,0,false,true
 Kindred Melody,Cadet,0,0,false,true
 Kiniz,Cadet,0,0,false,true
@@ -85,7 +86,7 @@ Rommilia,Inspector,0,1,true,true
 Roomba115,Special Agent,0,0,true,true
 Scheintod,Officer,0,0,false,true
 Semper-S3XY,Cadet,0,0,false,true
-Shigemori,Advisor,0,2,true,true
+Shigemori,Manager,0,2,true,true
 ShyFury,Cadet,0,0,false,true
 Sisia,Cadet,0,0,false,true
 Sonakoii,Jr Agent,0,0,false,true
