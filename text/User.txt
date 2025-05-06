@@ -22,7 +22,7 @@ Alicia Verdun,Agent,0,0,true,true
 Apple Bot,Special Agent,1,0,false,true
 Araga_Kiwi,Cadet,0,0,false,true
 Avigyl,Cadet,0,0,false,true
-B L A C K C A T,Field Agent,0,0,false,true
+B L A C K C A T,Special Agent,0,0,false,true
 Bert_,Officer,0,0,false,true
 ChampionAchievr,Cadet,0,0,false,true
 Chief,Special Agent,0,0,true,true
@@ -40,25 +40,25 @@ EmeraldDoes,Agent,0,0,false,true
 Foran,Jr Agent,0,0,true,true
 Fox_Crimson,Officer,0,0,false,true
 FrozenFireElias,Chief Executive,2,3,true,true
-Gazxangel,Officer,1,0,false,true
+Gazxangel,Jr Agent,1,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
 Ginga Ryoshi,Supervisor,1,1,true,true
 Gwemlinǃ,Special Agent,0,0,false,true
 HeyItsPure,Cadet,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
-IBETA7,Cadet,1,0,false,true
-Insanitorium9,Cadet,0,0,false,true
+IBETA7,Officer,1,0,false,true
+Insanitorium9,Officer,0,0,false,true
 Iron≺3,Cadet,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
 Jaskajopuli,Cadet,0,0,false,true
 JinxLv,Cadet,0,0,false,true
-JonyPhoney,Special Agent,2,0,true,true
+JonyPhoney,Inspector,2,1,true,true
 Kibbe,Cadet,0,0,false,true
 Kindred Melody,Cadet,0,0,false,true
 Kiniz,Cadet,0,0,false,true
 Klank1,Officer,0,0,false,true
-KoruAki,Jr Agent,1,0,false,true
+KoruAki,Agent,1,0,false,true
 Kryształ クリスタル,Cadet,0,0,false,true
 KubzCzech,Cadet,0,0,false,true
 KuqiKitty,Cadet,0,0,false,true
@@ -69,7 +69,7 @@ Lvstfvl,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
 Mettro,Cadet,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
-Narumiie,Jr Agent,1,0,false,true
+Narumiie,Agent,1,0,false,true
 Neon_Fennix,Cadet,0,0,false,true
 Nep Nep Senpai,Supervisor,2,1,true,true
 NeptuneNep,Cadet,0,0,false,true
@@ -112,4 +112,4 @@ soulbladerz,Officer,0,0,false,true
 Ƙally,Field Agent,0,0,false,true
 ᅳ,Cadet,0,0,false,true
 カピバラ,Special Agent,0,0,true,true
-人魚MainériaBrot༉,Special Agent,0,0,true,true
+人魚MainériaBrot༉,Inspector,0,1,true,true
