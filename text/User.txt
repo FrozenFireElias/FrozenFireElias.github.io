@@ -31,9 +31,11 @@ CoffeeeVR,Officer,0,0,false,true
 CorporatedSync,Officer,0,0,false,true
 DeSyMarZ6786,Cadet,0,0,false,true
 Deer_Butt,Manager,2,2,true,true
+Doctor Anthrax,Cadet,0,0,false,true
 DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
+ED_Monk,Cadet,0,0,false,true
 EXParadise,Officer,2,0,false,true
 Elusif,Cadet,0,0,false,true
 EmeraldDoes,Agent,0,0,false,true
@@ -69,12 +71,12 @@ Lvstfvl,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
 Mettro,Cadet,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
+Musket__,Cadet,0,0,false,true
 Narumiie,Agent,1,0,false,true
 Neon_Fennix,Cadet,0,0,false,true
 Nep Nep Senpai,Supervisor,2,1,true,true
 NeptuneNep,Cadet,0,0,false,true
 NightstarIL,Cadet,0,0,false,true
-Norelock,Cadet,0,0,false,true
 Oozeruk,Chief Operator,0,3,true,true
 Pixelmon,Cadet,0,0,false,true
 ProjektR,Officer,0,0,false,true
