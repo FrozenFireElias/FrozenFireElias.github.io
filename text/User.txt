@@ -24,6 +24,7 @@ Araga_Kiwi,Cadet,0,0,false,true
 Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Special Agent,0,0,false,true
 Bert_,Officer,0,0,false,true
+C4NDY_PNG,Cadet,0,0,false,true
 ChampionAchievr,Cadet,0,0,false,true
 Chief,Special Agent,0,0,true,true
 Chris2quick04,Officer,0,0,false,true
