@@ -16,6 +16,7 @@ null
 -end
 
 -Ghoulish-,Cadet,0,0,false,true
+AbyssalVIN,Agent,0,0,false,true
 Actually Stoked,Officer,0,0,false,true
 Advanced Derp,Agent,0,0,false,true
 Alicia Verdun,Agent,0,0,true,true
@@ -27,6 +28,7 @@ Bert_,Officer,0,0,false,true
 C4NDY_PNG,Cadet,0,0,false,true
 ChampionAchievr,Cadet,0,0,false,true
 Chief,Special Agent,0,0,true,true
+ChowChow2121,Cadet,0,0,false,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
 CorporatedSync,Officer,0,0,false,true
@@ -68,6 +70,7 @@ KuqiKitty,Cadet,0,0,false,true
 LAZARUS e56b,Cadet,0,0,false,true
 LittleJin,Cadet,0,0,false,true
 LuckyCharms0a42,Cadet,0,0,false,true
+Lunashine,Cadet,0,0,false,true
 Lvstfvl,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
 Mettro,Cadet,0,0,false,true
@@ -104,12 +107,12 @@ Wisersauce,Officer,0,0,false,true
 ZTIAI,Cadet,0,0,false,true
 ZTwoTL,Cadet,0,0,false,true
 _Yamato_,Cadet,0,0,false,true
-_stry,Director,0,2,true,true
+_stry,Director,1,2,true,true
+brommbaer,Cadet,0,0,false,true
 cifox20,Field Agent,0,0,false,true
 eeveil,Cadet,0,0,false,true
 foxfern,Cadet,0,0,false,true
 milkdotes4u,Cadet,0,0,false,true
-oldfoxy33,Cadet,0,0,false,true
 ozan1,Cadet,0,0,false,true
 quilu,Cadet,0,0,false,true
 risge3000,Cadet,0,0,false,true
