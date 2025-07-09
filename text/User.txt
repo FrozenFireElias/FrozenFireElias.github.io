@@ -25,7 +25,7 @@ Araga_Kiwi,Cadet,0,0,false,true
 Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Special Agent,0,0,false,true
 Bert_,Officer,0,0,false,true
-C4NDY_PNG,Cadet,0,0,false,true
+C4NDY_PNG,Cadet,1,0,false,true
 ChampionAchievr,Cadet,0,0,false,true
 Chief,Special Agent,0,0,true,true
 ChowChow2121,Cadet,0,0,false,true
@@ -34,11 +34,11 @@ CoffeeeVR,Officer,0,0,false,true
 CorporatedSync,Officer,0,0,false,true
 DeSyMarZ6786,Cadet,0,0,false,true
 Deer_Butt,Manager,2,2,true,true
-Doctor Anthrax,Officer,0,0,false,true
+Doctor Anthrax,Jr Agent,0,0,false,true
 DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
-ED_Monk,Officer,0,0,false,true
+ED_Monk,Jr Agent,0,0,false,true
 EXParadise,Jr Agent,2,0,false,true
 Elusif,Cadet,0,0,false,true
 EmeraldDoes,Agent,0,0,false,true
@@ -108,7 +108,6 @@ ZTIAI,Cadet,0,0,false,true
 ZTwoTL,Cadet,0,0,false,true
 _Yamato_,Cadet,0,0,false,true
 _stry,Director,1,2,true,true
-brommbaer,Cadet,0,0,false,true
 cifox20,Field Agent,0,0,false,true
 eeveil,Cadet,0,0,false,true
 foxfern,Cadet,0,0,false,true
