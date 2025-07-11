@@ -77,6 +77,7 @@ Mettro,Cadet,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
 Musket__,Cadet,0,0,false,true
 Narumiie,Field Agent,1,0,false,true
+Narvikhr,Cadet,0,0,false,true
 Nep Nep Senpai,Supervisor,2,1,true,true
 NeptuneNep,Cadet,0,0,false,true
 NightstarIL,Cadet,0,0,false,true
