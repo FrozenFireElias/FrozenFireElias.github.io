@@ -52,13 +52,12 @@ Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
 IBETA7,Officer,1,0,false,true
 Insanitorium9,Officer,0,0,false,true
-Iron≺3,Cadet,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
 Jaskajopuli,Cadet,0,0,false,true
 JinxLv,Cadet,0,0,false,true
 JonyPhoney,Inspector,2,1,true,true
+Kashikuzi,Cadet,0,0,false,true
 Kibbe,Cadet,0,0,false,true
-Killbnuuy,Cadet,0,0,false,true
 Kiniz,Cadet,0,0,false,true
 Klank1,Officer,0,0,false,true
 KoruAki,Agent,1,0,false,true
@@ -80,6 +79,7 @@ NeptuneNep,Cadet,0,0,false,true
 NightstarIL,Cadet,0,0,false,true
 NuggetzGG,Cadet,0,0,false,true
 Oozeruk,Chief Operator,0,3,true,true
+Perci_dot_exe,Cadet,0,0,false,true
 Pixelmon,Cadet,0,0,false,true
 ProjektR,Officer,0,0,false,true
 Pz․Grenadier 19,Cadet,0,0,false,true
