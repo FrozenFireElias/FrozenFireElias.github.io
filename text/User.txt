@@ -17,13 +17,13 @@ null
 
 AbyssalVIN,Agent,0,0,false,true
 Actually Stoked,Officer,0,0,false,true
-Advanced Derp,Agent,0,0,false,true
+Advanced Derp,Field Agent,0,0,false,true
 Alicia Verdun,Agent,0,0,true,true
 Apple Bot,Special Agent,1,0,false,true
 Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Special Agent,0,0,false,true
 Bert_,Officer,0,0,false,true
-C4NDY_PNG,Officer,1,0,false,true
+C4NDY_PNG,Officer,0,0,false,true
 ChampionAchievr,Cadet,0,0,false,true
 Chief,Special Agent,0,0,true,true
 ChowChow2121,Cadet,0,0,false,true
@@ -37,7 +37,7 @@ DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
 ED_Monk,Jr Agent,0,0,false,true
-EXParadise,Inspector,2,1,true,true
+EXParadise,Supervisor,2,2,true,true
 Elusif,Cadet,0,0,false,true
 EmeraldDoes,Agent,0,0,false,true
 Ezyne,Cadet,0,0,false,true
@@ -53,7 +53,6 @@ Hypernep,Cadet,0,0,false,true
 IBETA7,Officer,1,0,false,true
 Insanitorium9,Officer,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
-Jaskajopuli,Cadet,0,0,false,true
 JinxLv,Cadet,0,0,false,true
 JonyPhoney,Inspector,2,1,true,true
 Kashikuzi,Cadet,0,0,false,true
@@ -84,7 +83,6 @@ Pixelmon,Cadet,0,0,false,true
 ProjektR,Officer,0,0,false,true
 Pz․Grenadier 19,Cadet,0,0,false,true
 R4-V3N,Cadet,0,0,false,true
-Raine Desidia,Officer,0,0,false,true
 RequiemHarbener,Cadet,0,0,false,true
 River Storm,Cadet,0,0,false,true
 Robo-z3ro,Cadet,0,0,false,true
@@ -98,7 +96,6 @@ SirDarj5th,Cadet,0,0,false,true
 Sisia,Cadet,0,0,false,true
 Sonakoii,Jr Agent,0,0,false,true
 Suklo,Agent,0,0,false,true
-T0MBST0N3,Cadet,0,0,false,true
 ThePotatoKing23,Agent,0,0,true,true
 Tips,Special Agent,0,0,false,true
 Unknown Neko,Supervisor,0,1,true,true
