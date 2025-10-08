@@ -33,6 +33,7 @@ CorporatedSync,Jr Agent,0,0,false,true
 DeSyMarZ6786,Cadet,0,0,false,true
 Deer_Butt,Manager,2,2,true,true
 Doctor Anthrax,Jr Agent,0,0,false,true
+DraftnDash,Cadet,0,0,false,true
 DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
@@ -66,6 +67,7 @@ KuqiKitty,Cadet,0,0,false,true
 LAZARUS e56b,Cadet,0,0,false,true
 LittleJin,Cadet,0,0,false,true
 LuckyCharms0a42,Cadet,0,0,false,true
+LunarGX,Cadet,0,0,false,true
 Lunashine,Cadet,0,0,false,true
 Lvstfvl,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
@@ -95,6 +97,7 @@ ShyFury,Cadet,0,0,false,true
 SirDarj5th,Cadet,0,0,false,true
 Sisia,Cadet,0,0,false,true
 Sonakoii,Jr Agent,0,0,false,true
+SplashWall,Cadet,0,0,false,true
 Suklo,Agent,0,0,false,true
 ThePotatoKing23,Agent,0,0,true,true
 Tips,Special Agent,0,0,false,true
