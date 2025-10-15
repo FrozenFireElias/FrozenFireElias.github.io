@@ -108,10 +108,9 @@ Wisersauce,Officer,0,0,false,true
 ZTIAI,Officer,0,0,false,true
 ZTwoTL,Cadet,0,0,false,true
 _Yamato_,Cadet,0,0,false,true
-_stry,Director,1,2,true,true
+_stry,Director,0,2,true,true
 cifox20,Field Agent,0,0,false,true
 eeveil,Cadet,0,0,false,true
-foxfern,Cadet,0,0,false,true
 milkdotes4u,Cadet,0,0,false,true
 ozan1,Cadet,0,0,false,true
 quilu,Cadet,0,0,false,true
