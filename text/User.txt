@@ -22,7 +22,6 @@ Alicia Verdun,Agent,0,0,true,true
 Apple Bot,Special Agent,1,0,false,true
 Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Special Agent,0,0,false,true
-Bert_,Officer,0,0,false,true
 C4NDY_PNG,Officer,0,0,false,true
 ChampionAchievr,Cadet,0,0,false,true
 Chief,Special Agent,0,0,true,true
@@ -97,10 +96,12 @@ ShyFury,Cadet,0,0,false,true
 SirDarj5th,Cadet,0,0,false,true
 Sisia,Cadet,0,0,false,true
 Sonakoii,Jr Agent,0,0,false,true
+SplashWall,Cadet,0,0,false,true
 Suklo,Agent,0,0,false,true
 ThePotatoKing23,Agent,0,0,true,true
 Tips,Special Agent,0,0,false,true
 Unknown Neko,Supervisor,0,1,true,true
+VanessaTheFurry,Cadet,0,0,false,true
 Venom457,Cadet,0,0,false,true
 ViperXZ,Special Agent,0,0,false,true
 Wisersauce,Officer,0,0,false,true
