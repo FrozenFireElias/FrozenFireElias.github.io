@@ -28,7 +28,9 @@ Chief,Special Agent,0,0,true,true
 ChowChow2121,Cadet,0,0,false,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
+Commander Taco,Cadet,0,0,false,true
 CorporatedSync,Jr Agent,0,0,false,true
+Crowflake,Cadet,0,0,false,true
 DeSyMarZ6786,Cadet,0,0,false,true
 Deer_Butt,Manager,2,2,true,true
 Doctor Anthrax,Jr Agent,0,0,false,true
@@ -50,7 +52,7 @@ Gwemlinǃ,Special Agent,0,0,false,true
 HeyItsPure,Cadet,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
-IBETA7,Officer,1,0,false,true
+IBETA7,Jr Agent,1,0,false,true
 Insanitorium9,Officer,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
 JinxLv,Cadet,0,0,false,true
@@ -59,7 +61,7 @@ Kashikuzi,Cadet,0,0,false,true
 Kibbe,Cadet,0,0,false,true
 Kiniz,Cadet,0,0,false,true
 Klank1,Officer,0,0,false,true
-KoruAki,Field Agent,1,0,false,true
+KoruAki,Inspector,1,1,true,true
 Kryształ クリスタル,Cadet,0,0,false,true
 KubzCzech,Cadet,0,0,false,true
 KuqiKitty,Cadet,0,0,false,true
@@ -70,6 +72,7 @@ LunarGX,Cadet,0,0,false,true
 Lunashine,Cadet,0,0,false,true
 Lvstfvl,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
+Misty_Dragon,Jr Agent,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
 Musket__,Cadet,0,0,false,true
 Narumiie,Special Agent,1,0,false,true
@@ -88,7 +91,6 @@ RequiemHarbener,Cadet,0,0,false,true
 River Storm,Cadet,0,0,false,true
 Robo-z3ro,Cadet,0,0,false,true
 Rommilia,Inspector,0,1,true,true
-Roomba115,Special Agent,0,0,true,true
 Scheintod,Officer,0,0,false,true
 Semper-S3XY,Cadet,0,0,false,true
 Shigemori,Advisor,0,2,true,true
@@ -116,7 +118,7 @@ ozan1,Cadet,0,0,false,true
 quilu,Cadet,0,0,false,true
 risge3000,Cadet,0,0,false,true
 soulbladerz,Officer,0,0,false,true
-Ƙally,Field Agent,0,0,false,true
+Ƙally,Special Agent,0,0,false,true
 ᅳ,Cadet,0,0,false,true
 カピバラ,Special Agent,0,0,true,true
 人魚MainériaBrot༉,Inspector,0,1,true,true
