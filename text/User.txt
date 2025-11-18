@@ -1,6 +1,6 @@
 FrozenFireElias
 Nep Nep Senpai
-EXParadise
+skip
 skip
 
 skip
@@ -34,12 +34,11 @@ Crowflake,Cadet,0,0,false,true
 DeSyMarZ6786,Cadet,0,0,false,true
 Deer_Butt,Manager,2,2,true,true
 Doctor Anthrax,Jr Agent,0,0,false,true
-DraftnDash,Cadet,0,0,false,true
 DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
 ED_Monk,Jr Agent,0,0,false,true
-EXParadise,Supervisor,2,2,true,true
+EXParadise,Supervisor,0,2,true,true
 Elusif,Cadet,0,0,false,true
 EmeraldDoes,Agent,0,0,false,true
 Ezyne,Cadet,0,0,false,true
@@ -80,7 +79,6 @@ Narvikhr,Cadet,0,0,false,true
 Nep Nep Senpai,Supervisor,2,1,true,true
 NeptuneNep,Cadet,0,0,false,true
 NightstarIL,Cadet,0,0,false,true
-NuggetzGG,Cadet,0,0,false,true
 Oozeruk,Chief Operator,0,3,true,true
 Perci_dot_exe,Cadet,0,0,false,true
 Pixelmon,Cadet,0,0,false,true
@@ -95,6 +93,7 @@ Scheintod,Officer,0,0,false,true
 Semper-S3XY,Cadet,0,0,false,true
 Shigemori,Advisor,0,2,true,true
 ShyFury,Cadet,0,0,false,true
+SinderFlameWill,Cadet,0,0,false,true
 SirDarj5th,Cadet,0,0,false,true
 Sisia,Cadet,0,0,false,true
 Sonakoii,Jr Agent,0,0,false,true
