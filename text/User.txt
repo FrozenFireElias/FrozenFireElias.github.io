@@ -17,7 +17,7 @@ null
 
 A Chill Kermitღ,Cadet,0,0,false,true
 AFoulXzeno,Cadet,0,0,false,true
-AbyssalVIN,Agent,1,0,false,true
+AbyssalVIN,Agent,2,0,false,true
 Actually Stoked,Officer,0,0,false,true
 Advanced Derp,Field Agent,0,0,false,true
 Alicia Verdun,Agent,0,0,true,true
@@ -26,7 +26,7 @@ Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Special Agent,0,0,false,true
 C4NDY_PNG,Officer,0,0,false,true
 ChampionAchievr,Cadet,0,0,false,true
-Chief,Special Agent,0,0,true,true
+Chief,Special Agent,2,0,true,true
 ChowChow2121,Cadet,0,0,false,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
@@ -56,7 +56,6 @@ Hypernep,Cadet,0,0,false,true
 IBETA7,Agent,1,0,false,true
 Insanitorium9,Officer,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
-JinxLv,Cadet,0,0,false,true
 JonyPhoney,Inspector,2,1,true,true
 Kashikuzi,Cadet,0,0,false,true
 Kibbe,Cadet,0,0,false,true
