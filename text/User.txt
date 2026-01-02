@@ -56,6 +56,7 @@ Hypernep,Cadet,0,0,false,true
 IBETA7,Agent,1,0,false,true
 Insanitorium9,Officer,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
+JasmineLilith,Cadet,0,0,false,true
 JonyPhoney,Inspector,2,1,true,true
 Kashikuzi,Cadet,0,0,false,true
 Kibbe,Cadet,0,0,false,true
@@ -71,11 +72,11 @@ LunarGX,Cadet,0,0,false,true
 Lunashine,Cadet,0,0,false,true
 Lvstfvl,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
+Minttiny,Cadet,0,0,false,true
 Misty_Dragon,Jr Agent,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
 Musket__,Cadet,0,0,false,true
 Narumiie,Special Agent,1,0,false,true
-Narvikhr,Cadet,0,0,false,true
 Nep Nep Senpai,Supervisor,2,1,true,true
 NeptuneNep,Cadet,0,0,false,true
 NightstarIL,Cadet,0,0,false,true
@@ -90,7 +91,7 @@ Robo-z3ro,Cadet,0,0,false,true
 Rommilia,Inspector,0,1,true,true
 Scheintod,Officer,0,0,false,true
 Semper-S3XY,Cadet,0,0,false,true
-Shigemori,Advisor,0,2,true,true
+Shigemori,Manager,0,2,true,true
 ShyFury,Cadet,0,0,false,true
 SinderFlameWill,Cadet,0,0,false,true
 SirDarj5th,Cadet,0,0,false,true
@@ -98,9 +99,11 @@ Sisia,Cadet,0,0,false,true
 Sonakoii,Jr Agent,0,0,false,true
 SplashWall,Officer,0,0,false,true
 Suklo,Agent,0,0,false,true
+ThatTimTam,Cadet,0,0,false,true
 ThePotatoKing23,Agent,0,0,true,true
 Tips,Special Agent,0,0,false,true
 Unknown Neko,Supervisor,0,1,true,true
+V i v i a n,Cadet,0,0,false,true
 VanessaTheFurry,Cadet,0,0,false,true
 Venom457,Cadet,0,0,false,true
 ViperXZ,Special Agent,0,0,false,true
