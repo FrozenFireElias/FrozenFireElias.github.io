@@ -3,7 +3,7 @@ Nep Nep Senpai
 AbyssalVIN
 Chief
 
-skip
+Paradise
 skip
 skip
 skip
@@ -40,7 +40,7 @@ DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
 ED_Monk,Jr Agent,0,0,false,true
-EXParadise,Supervisor,0,2,true,true
+EXParadise,Supervisor,2,2,true,true
 Elusif,Cadet,0,0,false,true
 EmeraldDoes,Agent,0,0,false,true
 Foran,Field Agent,0,0,true,true
@@ -71,6 +71,7 @@ LunarGX,Cadet,0,0,false,true
 Lunashine,Cadet,0,0,false,true
 Lvstfvl,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
+MK MK,Cadet,0,0,false,true
 Minttiny,Cadet,0,0,false,true
 Misty_Dragon,Jr Agent,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
