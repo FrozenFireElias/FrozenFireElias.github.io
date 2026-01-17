@@ -52,7 +52,7 @@ Gwemlinǃ,Special Agent,0,0,false,true
 HeyItsPure,Cadet,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
-IBETA7,Supervisor,1,2,true,true
+IBETA7,Supervisor,2,2,true,true
 Insanitorium9,Officer,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
 JasmineLilith,Cadet,0,0,false,true
@@ -91,6 +91,7 @@ Robo-z3ro,Cadet,0,0,false,true
 Rommilia,Inspector,0,1,true,true
 Scheintod,Officer,0,0,false,true
 Semper-S3XY,Cadet,0,0,false,true
+Sev Hakase,Cadet,0,0,false,true
 Shigemori,Manager,0,2,true,true
 ShyFury,Cadet,0,0,false,true
 SinderFlameWill,Cadet,0,0,false,true
