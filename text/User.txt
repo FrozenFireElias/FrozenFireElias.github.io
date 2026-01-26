@@ -22,6 +22,7 @@ Actually Stoked,Officer,0,0,false,true
 Advanced Derp,Field Agent,0,0,false,true
 Alicia Verdun,Agent,0,0,true,true
 Apple Bot,Special Agent,1,0,false,true
+AureliaMiya,Cadet,0,0,false,true
 Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Special Agent,0,0,false,true
 C4NDY_PNG,Officer,0,0,false,true
@@ -46,7 +47,7 @@ EmeraldDoes,Agent,0,0,false,true
 Foran,Field Agent,0,0,true,true
 Fox_Crimson,Officer,0,0,false,true
 FrozenFireElias,Chief Executive,2,3,true,true
-Gazxangel,Jr Agent,1,0,false,true
+Gazxangel,Jr Agent,0,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
 Gwemlinǃ,Special Agent,0,0,false,true
 HeyItsPure,Cadet,0,0,false,true
@@ -113,6 +114,7 @@ ZTIAI,Jr Agent,0,0,false,true
 ZTwoTL,Cadet,0,0,false,true
 _Yamato_,Cadet,0,0,false,true
 _stry,Director,0,2,true,true
+a real raccoon,Cadet,0,0,false,true
 cifox20,Field Agent,0,0,false,true
 eeveil,Cadet,0,0,false,true
 milkdotes4u,Cadet,0,0,false,true
