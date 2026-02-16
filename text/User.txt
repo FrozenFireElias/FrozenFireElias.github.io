@@ -75,6 +75,7 @@ MK MK,Cadet,0,0,false,true
 Minttiny,Cadet,0,0,false,true
 Misty_Dragon,Jr Agent,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
+Mr ink,Cadet,0,0,false,true
 Musket__,Cadet,0,0,false,true
 Narumiie,Special Agent,1,0,false,true
 Nep Nep Senpai,Supervisor,2,1,true,true
@@ -121,7 +122,7 @@ ozan1,Cadet,0,0,false,true
 quilu,Cadet,0,0,false,true
 risge3000,Cadet,0,0,false,true
 soulbladerz,Officer,0,0,false,true
-Ƙally,Special Agent,0,0,false,true
+Ƙally,Inspector,0,1,true,true
 ᅳ,Cadet,0,0,false,true
 カピバラ,Special Agent,0,0,true,true
 人魚MainériaBrot༉,Inspector,0,1,true,true
