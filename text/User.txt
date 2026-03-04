@@ -16,12 +16,12 @@ null
 -end
 
 A Chill Kermitღ,Cadet,0,0,false,true
-AFoulXzeno,Cadet,0,0,false,true
+AFoulXzeno,Officer,0,0,false,true
 AbyssalVIN,Field Agent,2,0,false,true
 Actually Stoked,Officer,0,0,false,true
 Advanced Derp,Special Agent,0,0,false,true
 Alicia Verdun,Agent,0,0,true,true
-Apple Bot,Special Agent,1,0,false,true
+Apple Bot,Special Agent,0,0,false,true
 AureliaMiya,Cadet,0,0,false,true
 Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Special Agent,0,0,false,true
@@ -40,7 +40,7 @@ DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
 ED_Monk,Jr Agent,0,0,false,true
-EXParadise,Supervisor,2,2,true,true
+EXParadise,Manager,2,2,true,true
 Elusif,Cadet,0,0,false,true
 EmeraldDoes,Agent,0,0,false,true
 Foran,Field Agent,0,0,true,true
@@ -55,7 +55,6 @@ Hypernep,Cadet,0,0,false,true
 IBETA7,Supervisor,2,2,true,true
 Insanitorium9,Officer,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
-JasmineLilith,Officer,0,0,false,true
 JonyPhoney,Inspector,2,1,true,true
 Kashikuzi,Cadet,0,0,false,true
 Kibbe,Cadet,0,0,false,true
@@ -78,7 +77,7 @@ Modnar Dhorn,Cadet,0,0,false,true
 Mr ink,Cadet,0,0,false,true
 Musket__,Cadet,0,0,false,true
 Narumiie,Special Agent,1,0,false,true
-Nep Nep Senpai,Supervisor,2,1,true,true
+Nep Nep Senpai,Manager,2,2,true,true
 NeptuneNep,Cadet,0,0,false,true
 NightstarIL,Cadet,0,0,false,true
 Oozeruk,Chief Operator,0,3,true,true
@@ -95,14 +94,14 @@ Semper-S3XY,Cadet,0,0,false,true
 Sev Hakase,Cadet,0,0,false,true
 Shigemori,Manager,0,2,true,true
 ShyFury,Cadet,0,0,false,true
-SinderFlameWill,Officer,0,0,false,true
+SinderFlameWill,Jr Agent,0,0,false,true
 SirDarj5th,Cadet,0,0,false,true
 Sisia,Cadet,0,0,false,true
 Sonakoii,Jr Agent,0,0,false,true
 SplashWall,Officer,0,0,false,true
 Suklo,Agent,0,0,false,true
 ThatTimTam,Cadet,0,0,false,true
-ThePotatoKing23,Agent,0,0,true,true
+ThePotatoKing23,Agent,0,0,false,true
 Tips,Special Agent,0,0,false,true
 Unknown Neko,Supervisor,0,1,true,true
 V i v i a n,Officer,0,0,false,true
@@ -110,13 +109,12 @@ VanessaTheFurry,Cadet,0,0,false,true
 Venom457,Cadet,0,0,false,true
 ViperXZ,Special Agent,0,0,false,true
 Wisersauce,Officer,0,0,false,true
-ZTIAI,Jr Agent,0,0,false,true
+ZTIAI,Agent,0,0,false,true
 ZTwoTL,Cadet,0,0,false,true
 _Yamato_,Cadet,0,0,false,true
 _stry,Director,0,2,true,true
 a real raccoon,Cadet,0,0,false,true
 cifox20,Field Agent,0,0,false,true
-eeveil,Cadet,0,0,false,true
 milkdotes4u,Cadet,0,0,false,true
 ozan1,Cadet,0,0,false,true
 quilu,Cadet,0,0,false,true
