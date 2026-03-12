@@ -40,16 +40,16 @@ DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
 Drywall_Deluxe,Special Agent,0,0,false,true
 ED_Monk,Jr Agent,0,0,false,true
-EXParadise,Manager,2,2,true,true
+EXParadise,Advisor,2,2,true,true
 Elusif,Cadet,0,0,false,true
 EmeraldDoes,Agent,0,0,false,true
+Evadeam,Cadet,0,0,false,true
 Foran,Field Agent,0,0,true,true
 Fox_Crimson,Officer,0,0,false,true
 FrozenFireElias,Chief Executive,2,3,true,true
 Gazxangel,Jr Agent,0,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
 Gwemlinǃ,Special Agent,0,0,false,true
-HeyItsPure,Cadet,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
 IBETA7,Supervisor,2,2,true,true
@@ -89,6 +89,7 @@ R4-V3N,Cadet,0,0,false,true
 RequiemHarbener,Cadet,0,0,false,true
 Robo-z3ro,Cadet,0,0,false,true
 Rommilia,Special Agent,0,0,false,true
+Samürai,Cadet,0,0,false,true
 Scheintod,Officer,0,0,false,true
 Semper-S3XY,Cadet,0,0,false,true
 Sev Hakase,Cadet,0,0,false,true
