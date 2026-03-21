@@ -15,11 +15,13 @@ null
 
 -end
 
+-Arc-,Cadet,0,0,false,true
 A Chill Kermitღ,Cadet,0,0,false,true
 AFoulXzeno,Officer,0,0,false,true
-AbyssalVIN,Field Agent,2,0,false,true
+AbyssalVIN,Field Agent,1,0,false,true
 Actually Stoked,Officer,0,0,false,true
 Advanced Derp,Special Agent,0,0,false,true
+Alesnya,Cadet,0,0,false,true
 Alicia Verdun,Agent,0,0,true,true
 Apple Bot,Special Agent,0,0,false,true
 AureliaMiya,Cadet,0,0,false,true
@@ -27,7 +29,7 @@ Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Special Agent,0,0,false,true
 C4NDY_PNG,Officer,0,0,false,true
 ChampionAchievr,Cadet,0,0,false,true
-Chief,Special Agent,2,0,true,true
+Chief,Special Agent,0,0,true,true
 ChowChow2121,Cadet,0,0,false,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
@@ -62,7 +64,6 @@ Kiniz,Cadet,0,0,false,true
 Klank1,Officer,0,0,false,true
 KoruAki,Supervisor,1,2,true,true
 KubzCzech,Cadet,0,0,false,true
-KuqiKitty,Cadet,0,0,false,true
 LAZARUS e56b,Cadet,0,0,false,true
 LittleJin,Cadet,0,0,false,true
 LuckyCharms0a42,Cadet,0,0,false,true
