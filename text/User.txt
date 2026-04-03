@@ -40,7 +40,7 @@ Deer_Butt,Manager,2,2,true,true
 Doctor Anthrax,Jr Agent,0,0,false,true
 DragoShuen,Agent,0,0,true,true
 Drexas,Officer,0,0,false,true
-Drywall_Deluxe,Special Agent,0,0,false,true
+Drywall_Deluxe,Agent,0,0,false,true
 ED_Monk,Jr Agent,0,0,false,true
 EXParadise,Advisor,2,2,true,true
 Elusif,Cadet,0,0,false,true
@@ -51,7 +51,7 @@ Fox_Crimson,Officer,0,0,false,true
 FrozenFireElias,Chief Executive,2,3,true,true
 Gazxangel,Jr Agent,0,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
-Gwemlinǃ,Special Agent,0,0,false,true
+Gwemlinǃ,Agent,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
 IBETA7,Supervisor,2,2,true,true
@@ -125,4 +125,4 @@ soulbladerz,Officer,0,0,false,true
 Ƙally,Inspector,0,1,true,true
 ᅳ,Cadet,0,0,false,true
 カピバラ,Special Agent,0,0,true,true
-人魚MainériaBrot༉,Inspector,0,1,true,true
+人魚MainériaBrot༉,Agent,0,0,true,true
