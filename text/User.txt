@@ -52,6 +52,7 @@ FrozenFireElias,Chief Executive,2,3,true,true
 Gazxangel,Jr Agent,0,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
 Gwemlinǃ,Agent,0,0,false,true
+HamiHam,Cadet,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
 IBETA7,Supervisor,2,2,true,true
@@ -89,7 +90,7 @@ Pz․Grenadier 19,Cadet,0,0,false,true
 R4-V3N,Cadet,0,0,false,true
 RequiemHarbener,Cadet,0,0,false,true
 Robo-z3ro,Cadet,0,0,false,true
-Rommilia,Special Agent,0,0,false,true
+Rommilia,Special Agent,0,0,true,true
 Samürai,Cadet,0,0,false,true
 Scheintod,Officer,0,0,false,true
 Semper-S3XY,Cadet,0,0,false,true
