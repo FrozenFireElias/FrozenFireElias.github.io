@@ -60,6 +60,7 @@ Hypernep,Cadet,0,0,false,true
 IBETA7,Manager,2,2,true,true
 Insanitorium9,Officer,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
+Joker Karma,Cadet,0,0,false,true
 JonyPhoney,Inspector,2,1,true,true
 Kashikuzi,Cadet,0,0,false,true
 Kibbe,Cadet,0,0,false,true
@@ -106,6 +107,7 @@ Sonakoii,Jr Agent,0,0,false,true
 SplashWall,Officer,0,0,false,true
 Suklo,Agent,0,0,false,true
 ThatTimTam,Cadet,0,0,false,true
+The Black Swan,Cadet,0,0,false,true
 ThePotatoKing23,Agent,0,0,false,true
 The_Impiersonator,Cadet,0,0,false,true
 Tips,Special Agent,0,0,false,true
