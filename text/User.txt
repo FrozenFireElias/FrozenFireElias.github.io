@@ -18,7 +18,7 @@ null
 -Arc-,Cadet,0,0,false,true
 -ImToast-,Cadet,0,0,false,true
 A Chill Kermitღ,Cadet,0,0,false,true
-AFoulXzeno,Jr Agent,0,0,false,true
+AFoulXzeno,Agent,0,0,false,true
 AbyssalVIN,Special Agent,1,0,false,true
 Actually Stoked,Officer,0,0,false,true
 Advanced Derp,Special Agent,0,0,false,true
@@ -28,9 +28,9 @@ Apple Bot,Special Agent,0,0,false,true
 AureliaMiya,Cadet,0,0,false,true
 Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Special Agent,0,0,false,true
-C4NDY_PNG,Officer,0,0,false,true
+C4NDY_PNG,Jr Agent,0,0,false,true
 ChampionAchievr,Cadet,0,0,false,true
-Chief,Special Agent,0,0,true,true
+Chief,Honored NPC,0,0,true,true
 ChowChow2121,Cadet,0,0,false,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
@@ -80,7 +80,7 @@ MK MK,Cadet,0,0,false,true
 Minttiny,Cadet,0,0,false,true
 Misty_Dragon,Jr Agent,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
-Mr ink,Cadet,0,0,false,true
+Mr ink,Officer,0,0,false,true
 Musket__,Cadet,0,0,false,true
 Narumiie,Special Agent,1,0,false,true
 Nep Nep Senpai,Manager,2,2,true,true
@@ -100,7 +100,7 @@ Semper-S3XY,Cadet,0,0,false,true
 Sev Hakase,Cadet,0,0,false,true
 Shigemori,Manager,0,2,true,true
 ShyFury,Cadet,0,0,false,true
-SinderFlameWill,Jr Agent,0,0,false,true
+SinderFlameWill,Agent,0,0,false,true
 SirDarj5th,Cadet,0,0,false,true
 Sisia,Cadet,0,0,false,true
 Sonakoii,Jr Agent,0,0,false,true
@@ -109,7 +109,7 @@ Suklo,Agent,0,0,false,true
 ThatTimTam,Cadet,0,0,false,true
 The Black Swan,Cadet,0,0,false,true
 ThePotatoKing23,Agent,0,0,false,true
-The_Impiersonator,Cadet,0,0,false,true
+The_Impiersonator,Officer,0,0,false,true
 Tips,Special Agent,0,0,false,true
 Unknown Neko,Supervisor,0,1,true,true
 V i v i a n,Officer,0,0,false,true
@@ -129,5 +129,5 @@ soulbladerz,Officer,0,0,false,true
 Ƙally,Inspector,0,1,true,true
 ˚Zenith˚,Cadet,0,0,false,true
 ᅳ,Cadet,0,0,false,true
-カピバラ,Special Agent,0,0,true,true
+カピバラ,Supervisor,0,2,true,true
 人魚MainériaBrot༉,Agent,0,0,true,true
