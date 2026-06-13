@@ -30,7 +30,7 @@ Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Special Agent,0,0,false,true
 C4NDY_PNG,Jr Agent,0,0,false,true
 ChampionAchievr,Cadet,0,0,false,true
-Chief,Honored NPC,0,0,true,true
+Chief,Special Agent,0,0,true,true
 ChowChow2121,Cadet,0,0,false,true
 Chris2quick04,Officer,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
