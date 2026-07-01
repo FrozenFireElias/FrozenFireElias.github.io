@@ -28,6 +28,7 @@ Apple Bot,Special Agent,0,0,false,true
 AureliaMiya,Cadet,0,0,false,true
 Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Special Agent,0,0,false,true
+Bakêd,Cadet,0,0,false,true
 C4NDY_PNG,Jr Agent,0,0,false,true
 ChampionAchievr,Cadet,0,0,false,true
 Chief,Special Agent,0,0,true,true
@@ -48,6 +49,7 @@ Elusif,Cadet,0,0,false,true
 EmeraldDoes,Agent,0,0,false,true
 Emiko-Z,Cadet,0,0,false,true
 Evadeam,Cadet,0,0,false,true
+Fenrir Luna,Cadet,0,0,false,true
 Foran,Field Agent,0,0,true,true
 Fox_Crimson,Officer,0,0,false,true
 FrozenFireElias,Chief Executive,2,3,true,true
@@ -57,7 +59,7 @@ Gwemlinǃ,Agent,0,0,false,true
 HamiHam,Cadet,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
-IBETA7,Manager,2,2,true,true
+IBETA7,Advisor,2,2,true,true
 Insanitorium9,Officer,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
 Joker Karma,Cadet,0,0,false,true
@@ -82,6 +84,7 @@ Misty_Dragon,Jr Agent,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
 Mr ink,Officer,0,0,false,true
 Musket__,Cadet,0,0,false,true
+Mäks,Cadet,0,0,false,true
 Narumiie,Special Agent,1,0,false,true
 Nep Nep Senpai,Manager,2,2,true,true
 NeptuneNep,Cadet,0,0,false,true
@@ -116,13 +119,18 @@ V i v i a n,Officer,0,0,false,true
 VanessaTheFurry,Cadet,0,0,false,true
 Venom457,Cadet,0,0,false,true
 ViperXZ,Special Agent,0,0,false,true
+White Bernhardt,Cadet,0,0,false,true
 Wisersauce,Officer,0,0,false,true
+XtraAsto,Cadet,0,0,false,true
+Yazzy_,Cadet,0,0,false,true
 ZTIAI,Agent,0,0,false,true
+Zal۪,Cadet,0,0,false,true
 _Yamato_,Cadet,0,0,false,true
 _stry,Director,0,2,true,true
 cifox20,Field Agent,0,0,false,true
 milkdotes4u,Cadet,0,0,false,true
 ozan1,Cadet,0,0,false,true
+pinkbird_ピンクの鳥ඞ,Cadet,0,0,false,true
 quilu,Cadet,0,0,false,true
 risge3000,Cadet,0,0,false,true
 soulbladerz,Officer,0,0,false,true
