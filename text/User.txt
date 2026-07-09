@@ -1,16 +1,16 @@
 FrozenFireElias
 Nep Nep Senpai
-skip
-skip
-
 Paradise
 skip
+
+skip
+skip
 skip
 skip
 
 skip
 skip
-skip
+null
 null
 
 -end
@@ -59,7 +59,7 @@ Gwemlinǃ,Agent,0,0,false,true
 HamiHam,Cadet,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
-IBETA7,Advisor,2,2,true,true
+IBETA7,Manager,2,2,true,true
 Insanitorium9,Officer,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
 Joker Karma,Cadet,0,0,false,true
