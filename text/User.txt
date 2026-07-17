@@ -18,7 +18,7 @@ null
 -Arc-,Cadet,0,0,false,true
 -ImToast-,Cadet,0,0,false,true
 A Chill Kermitღ,Cadet,0,0,false,true
-AFoulXzeno,Agent,0,0,false,true
+AFoulXzeno,Agent,0,0,true,true
 AbyssalVIN,Special Agent,1,0,false,true
 AckeAcke,Cadet,0,0,false,true
 Actually Stoked,Officer,0,0,false,true
