@@ -30,6 +30,7 @@ AureliaMiya,Cadet,0,0,false,true
 Avigyl,Cadet,0,0,false,true
 B L A C K C A T,Special Agent,0,0,false,true
 Bakêd,Cadet,0,0,false,true
+BunVibes,Cadet,0,0,false,true
 C4NDY_PNG,Jr Agent,0,0,false,true
 ChampionAchievr,Cadet,0,0,false,true
 Chief,Special Agent,0,0,true,true
@@ -52,10 +53,12 @@ Emiko-Z,Cadet,0,0,false,true
 Evadeam,Cadet,0,0,false,true
 Fenrir Luna,Cadet,0,0,false,true
 Foran,Special Agent,0,0,true,true
+FortvneVA 97e9,Cadet,0,0,false,true
 Fox_Crimson,Officer,0,0,false,true
 FrozenFireElias,Chief Executive,2,3,true,true
 Gazxangel,Jr Agent,0,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
+Ginga Ryoshi,Jr Agent,0,0,false,true
 Gwemlinǃ,Agent,0,0,false,true
 HamiHam,Cadet,0,0,false,true
 Hroi,Cadet,0,0,false,true
@@ -72,7 +75,6 @@ Klank1,Officer,0,0,false,true
 KoruAki,Manager,1,2,true,true
 KubzCzech,Officer,0,0,false,true
 LAZARUS e56b,Cadet,0,0,false,true
-Lang SilverBug,Cadet,0,0,false,true
 LittleJin,Cadet,0,0,false,true
 LuckyCharms0a42,Cadet,0,0,false,true
 LunarGX,Cadet,0,0,false,true
@@ -81,7 +83,6 @@ Lvstfvl,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
 MK MK,Cadet,0,0,false,true
 Minttiny,Cadet,0,0,false,true
-Misty_Dragon,Jr Agent,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
 Mr ink,Officer,0,0,false,true
 Musket__,Cadet,0,0,false,true
