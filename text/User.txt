@@ -18,9 +18,9 @@ null
 -Arc-,Cadet,0,0,false,true
 -ImToast-,Cadet,0,0,false,true
 A Chill Kermitღ,Cadet,0,0,false,true
-AFoulXzeno,Agent,0,0,true,true
+AFoulXzeno,Field Agent,0,0,true,true
 AbyssalVIN,Special Agent,1,0,false,true
-AckeAcke,Cadet,0,0,false,true
+AckeAcke,Officer,0,0,false,true
 Actually Stoked,Officer,0,0,false,true
 Advanced Derp,Special Agent,0,0,false,true
 Alesnya,Cadet,0,0,false,true
@@ -59,6 +59,7 @@ FrozenFireElias,Chief Executive,2,3,true,true
 Gazxangel,Jr Agent,0,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
 Ginga Ryoshi,Jr Agent,0,0,false,true
+Grotewolf,Cadet,0,0,false,true
 Gwemlinǃ,Agent,0,0,false,true
 HamiHam,Cadet,0,0,false,true
 Hroi,Cadet,0,0,false,true
@@ -86,7 +87,7 @@ Minttiny,Cadet,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
 Mr ink,Officer,0,0,false,true
 Musket__,Cadet,0,0,false,true
-Mäks,Cadet,0,0,false,true
+Mäks,Officer,0,0,false,true
 Narumiie,Special Agent,1,0,false,true
 Nep Nep Senpai,Manager,2,2,true,true
 NeptuneNep,Cadet,0,0,false,true
@@ -101,11 +102,11 @@ Robo-z3ro,Cadet,0,0,false,true
 Rommilia,Special Agent,0,0,true,true
 Samürai,Officer,0,0,false,true
 Scheintod,Officer,0,0,false,true
-Semper-S3XY,Cadet,0,0,false,true
-Sev Hakase,Cadet,0,0,false,true
+Semper-S3XY,Officer,0,0,false,true
+Sev Hakase,Officer,0,0,false,true
 Shigemori,Manager,0,2,true,true
 ShyFury,Cadet,0,0,false,true
-SinderFlameWill,Agent,0,0,false,true
+SinderFlameWill,Field Agent,0,0,false,true
 SirDarj5th,Cadet,0,0,false,true
 Sisia,Cadet,0,0,false,true
 Sonakoii,Jr Agent,0,0,false,true
@@ -122,7 +123,6 @@ V i v i a n,Officer,0,0,false,true
 VanessaTheFurry,Cadet,0,0,false,true
 Venom457,Cadet,0,0,false,true
 ViperXZ,Special Agent,0,0,false,true
-White Bernhardt,Cadet,0,0,false,true
 Wisersauce,Officer,0,0,false,true
 XtraAsto,Cadet,0,0,false,true
 Yazzy_,Cadet,0,0,false,true
@@ -134,7 +134,7 @@ cifox20,Field Agent,0,0,false,true
 loka666,Cadet,0,0,false,true
 milkdotes4u,Cadet,0,0,false,true
 ozan1,Cadet,0,0,false,true
-pinkbird_ピンクの鳥ඞ,Cadet,0,0,false,true
+pinkbird_ピンクの鳥ඞ,Officer,0,0,false,true
 quilu,Cadet,0,0,false,true
 risge3000,Cadet,0,0,false,true
 soulbladerz,Officer,0,0,false,true
