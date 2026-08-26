@@ -58,10 +58,10 @@ Fox_Crimson,Officer,0,0,false,true
 FrozenFireElias,Chief Executive,2,3,true,true
 Gazxangel,Jr Agent,0,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
-Ginga Ryoshi,Jr Agent,0,0,false,true
 Grotewolf,Cadet,0,0,false,true
 Gwemlinǃ,Agent,0,0,false,true
 HamiHam,Cadet,0,0,false,true
+Haru Hakase,Officer,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
 IBETA7,Manager,2,2,true,true
@@ -70,6 +70,7 @@ ItsMeFuyu,Cadet,0,0,false,true
 Joker Karma,Cadet,0,0,false,true
 JonyPhoney,Inspector,2,1,true,true
 Kashikuzi,Cadet,0,0,false,true
+Katheren,Cadet,0,0,false,true
 Kibbe,Cadet,0,0,false,true
 Kiniz,Cadet,0,0,false,true
 Klank1,Officer,0,0,false,true
@@ -103,7 +104,6 @@ Rommilia,Special Agent,0,0,true,true
 Samürai,Officer,0,0,false,true
 Scheintod,Officer,0,0,false,true
 Semper-S3XY,Officer,0,0,false,true
-Sev Hakase,Officer,0,0,false,true
 Shigemori,Manager,0,2,true,true
 ShyFury,Cadet,0,0,false,true
 SinderFlameWill,Field Agent,0,0,false,true
