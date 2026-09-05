@@ -104,6 +104,7 @@ Rommilia,Special Agent,0,0,true,true
 Samürai,Officer,0,0,false,true
 Scheintod,Officer,0,0,false,true
 Semper-S3XY,Officer,0,0,false,true
+Sheppard98,Cadet,0,0,false,true
 Shigemori,Manager,0,2,true,true
 ShyFury,Cadet,0,0,false,true
 SinderFlameWill,Field Agent,0,0,false,true
