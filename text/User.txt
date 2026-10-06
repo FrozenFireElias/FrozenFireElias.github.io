@@ -36,6 +36,7 @@ ChampionAchievr,Cadet,0,0,false,true
 Chief,Special Agent,0,0,true,true
 ChowChow2121,Cadet,0,0,false,true
 Chris2quick04,Officer,0,0,false,true
+ChrisMusic,Cadet,0,0,false,true
 CoffeeeVR,Officer,0,0,false,true
 Commander Taco,Officer,0,0,false,true
 CorporatedSync,Jr Agent,0,0,false,true
@@ -60,13 +61,13 @@ Gazxangel,Jr Agent,0,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
 Grotewolf,Officer,0,0,false,true
 Gwemlinǃ,Agent,0,0,false,true
-HamiHam,Cadet,0,0,false,true
 Haru Hakase,Jr Agent,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
 IBETA7,Manager,2,2,true,true
 Insanitorium9,Officer,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
+Jiddyo,Cadet,0,0,false,true
 Joker Karma,Cadet,0,0,false,true
 JonyPhoney,Inspector,2,1,true,true
 Kashikuzi,Cadet,0,0,false,true
@@ -93,6 +94,7 @@ Narumiie,Special Agent,1,0,false,true
 Nep Nep Senpai,Manager,2,2,true,true
 NeptuneNep,Cadet,0,0,false,true
 NightstarIL,Cadet,0,0,false,true
+Noodleboy dbfd,Cadet,0,0,false,true
 Oozeruk,Advisor,0,2,true,true
 Perci_dot_exe,Cadet,0,0,false,true
 Pixelmon,Cadet,0,0,false,true
