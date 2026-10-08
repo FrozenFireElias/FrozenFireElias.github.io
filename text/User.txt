@@ -95,7 +95,7 @@ Nep Nep Senpai,Manager,2,2,true,true
 NeptuneNep,Cadet,0,0,false,true
 NightstarIL,Cadet,0,0,false,true
 Noodleboy dbfd,Cadet,0,0,false,true
-Oozeruk,Advisor,0,2,true,true
+Oozeruk,Special Agent,0,0,true,true
 Perci_dot_exe,Cadet,0,0,false,true
 Pixelmon,Cadet,0,0,false,true
 ProjektR,Officer,0,0,false,true
