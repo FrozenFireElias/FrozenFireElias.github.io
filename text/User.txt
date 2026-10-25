@@ -59,12 +59,13 @@ Fox_Crimson,Officer,0,0,false,true
 FrozenFireElias,Chief Executive,2,3,true,true
 Gazxangel,Jr Agent,0,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
-Grotewolf,Officer,0,0,false,true
+Grotewolf,Jr Agent,0,0,false,true
 Gwemlinǃ,Agent,0,0,false,true
 Haru Hakase,Jr Agent,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
 IBETA7,Manager,2,2,true,true
+IneiFox,Cadet,0,0,false,true
 Insanitorium9,Officer,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
 Jiddyo,Cadet,0,0,false,true
@@ -89,7 +90,7 @@ Minttiny,Cadet,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
 Mr ink,Officer,0,0,false,true
 Musket__,Cadet,0,0,false,true
-Mäks,Jr Agent,0,0,false,true
+Mäks,Jr Agent,1,0,false,true
 Narumiie,Special Agent,1,0,false,true
 Nep Nep Senpai,Manager,2,2,true,true
 NeptuneNep,Cadet,0,0,false,true
@@ -101,12 +102,11 @@ Pixelmon,Cadet,0,0,false,true
 ProjektR,Officer,0,0,false,true
 Pz․Grenadier 19,Cadet,0,0,false,true
 R4-V3N,Cadet,0,0,false,true
-Robo-z3ro,Cadet,0,0,false,true
 Rommilia,Special Agent,0,0,true,true
 Samürai,Officer,0,0,false,true
 Scheintod,Officer,0,0,false,true
 Semper-S3XY,Officer,0,0,false,true
-Sheppard98,Cadet,0,0,false,true
+Sheppard98,Officer,0,0,false,true
 Shigemori,Manager,0,2,true,true
 ShyFury,Cadet,0,0,false,true
 SinderFlameWill,Field Agent,0,0,false,true
@@ -144,6 +144,6 @@ soulbladerz,Officer,0,0,false,true
 Ƙally,Inspector,0,1,true,true
 ˚Zenith˚,Cadet,0,0,false,true
 ᅳ,Cadet,0,0,false,true
-カピバラ,Supervisor,0,2,true,true
+カピバラ,Manager,0,2,true,true
 人魚MainériaBrot༉,Agent,0,0,true,true
 ［月の兎Molli］,Cadet,0,0,false,true
