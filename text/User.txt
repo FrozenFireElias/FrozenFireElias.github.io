@@ -20,7 +20,7 @@ null
 A Chill Kermitღ,Cadet,0,0,false,true
 AFoulXzeno,Field Agent,0,0,true,true
 AbyssalVIN,Special Agent,0,0,false,true
-AckeAcke,Jr Agent,2,0,false,true
+AckeAcke,Agent,2,0,true,true
 Actually Stoked,Officer,0,0,false,true
 Advanced Derp,Special Agent,0,0,false,true
 Alesnya,Cadet,0,0,false,true
@@ -59,16 +59,17 @@ Fox_Crimson,Officer,0,0,false,true
 FrozenFireElias,Chief Executive,2,3,true,true
 Gazxangel,Jr Agent,0,0,false,true
 GhostlyWolf208,Cadet,0,0,false,true
-Grotewolf,Jr Agent,0,0,false,true
+Grotewolf,Agent,0,0,true,true
 Gwemlinǃ,Agent,0,0,false,true
 Haru Hakase,Jr Agent,0,0,false,true
+Hollow33,Cadet,0,0,false,true
 Hroi,Cadet,0,0,false,true
 Hypernep,Cadet,0,0,false,true
 IBETA7,Manager,2,2,true,true
 IneiFox,Cadet,0,0,false,true
 Insanitorium9,Officer,0,0,false,true
 ItsMeFuyu,Cadet,0,0,false,true
-Jiddyo,Cadet,0,0,false,true
+Jiddyo,Officer,0,0,false,true
 Joker Karma,Cadet,0,0,false,true
 JonyPhoney,Inspector,2,1,true,true
 Kashikuzi,Cadet,0,0,false,true
@@ -83,19 +84,18 @@ LittleJin,Cadet,0,0,false,true
 LuckyCharms0a42,Cadet,0,0,false,true
 LunarGX,Cadet,0,0,false,true
 Lunashine,Cadet,0,0,false,true
-Lvstfvl,Cadet,0,0,false,true
 MCItech,Director,2,2,true,true
 MK MK,Cadet,0,0,false,true
 Minttiny,Cadet,0,0,false,true
 Modnar Dhorn,Cadet,0,0,false,true
 Mr ink,Officer,0,0,false,true
 Musket__,Cadet,0,0,false,true
-Mäks,Jr Agent,1,0,false,true
+Mäks,Agent,1,0,false,true
 Narumiie,Special Agent,1,0,false,true
 Nep Nep Senpai,Manager,2,2,true,true
 NeptuneNep,Cadet,0,0,false,true
 NightstarIL,Cadet,0,0,false,true
-Noodleboy dbfd,Cadet,0,0,false,true
+Noodleboy dbfd,Officer,0,0,false,true
 Oozeruk,Special Agent,0,0,true,true
 Perci_dot_exe,Cadet,0,0,false,true
 Pixelmon,Cadet,0,0,false,true
@@ -106,7 +106,7 @@ Rommilia,Special Agent,0,0,true,true
 Samürai,Officer,0,0,false,true
 Scheintod,Officer,0,0,false,true
 Semper-S3XY,Officer,0,0,false,true
-Sheppard98,Officer,0,0,false,true
+Sheppard98,Jr Agent,0,0,false,true
 Shigemori,Manager,0,2,true,true
 ShyFury,Cadet,0,0,false,true
 SinderFlameWill,Field Agent,0,0,false,true
@@ -116,6 +116,7 @@ Sonakoii,Jr Agent,0,0,false,true
 SplashWall,Officer,0,0,false,true
 Sugar_Lillie,Cadet,0,0,false,true
 Suklo,Agent,0,0,false,true
+T0MBST0N3,Cadet,0,0,false,true
 ThatTimTam,Cadet,0,0,false,true
 The Black Swan,Cadet,0,0,false,true
 ThePotatoKing23,Agent,0,0,false,true
@@ -123,7 +124,6 @@ The_Impiersonator,Officer,0,0,false,true
 Tips,Special Agent,0,0,false,true
 Unknown Neko,Supervisor,0,1,true,true
 V i v i a n,Officer,0,0,false,true
-VanessaTheFurry,Cadet,0,0,false,true
 Venom457,Cadet,0,0,false,true
 ViperXZ,Special Agent,0,0,false,true
 Wisersauce,Officer,0,0,false,true
@@ -145,5 +145,5 @@ soulbladerz,Officer,0,0,false,true
 ˚Zenith˚,Cadet,0,0,false,true
 ᅳ,Cadet,0,0,false,true
 カピバラ,Manager,0,2,true,true
-人魚MainériaBrot༉,Agent,0,0,true,true
+人魚MainériaBrot༉,Field Agent,0,0,true,true
 ［月の兎Molli］,Cadet,0,0,false,true
